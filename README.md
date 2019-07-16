@@ -9,5 +9,12 @@
 below is a good source to use the world production of graph per hactar 
 https://public.opendatasoft.com/explore/dataset/wine-area-cepages-france/table/?sort=-year
 
+
+Todo:
+______________________________
+YouTube Video: 30 
+Classification:
+Self:
+Outline Draft:
 # preliminary
 
