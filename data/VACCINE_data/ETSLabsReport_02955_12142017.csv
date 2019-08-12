@@ -1,3 +1,1704 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ceacc684888de6f289a9b3ec153436f12c4cd737681866c61e81e87f48a8ad4e
-size 144938
+Date,Sample Description,Group #,Sample #,Sample Status,Analysis Name,Comment,Result,Units
+9/29/2017,Site 1TSCS,1064680,709281185,Reported,total anthocyanins,,1018,mg/L
+9/29/2017,Site 1TSCS,1064680,709281185,Reported,titratable acidity,,5.8,g/L
+9/29/2017,Site 1TSCS,1064680,709281185,Reported,sugar per berry (by weight),,0.241,g/berry
+9/29/2017,Site 1TSCS,1064680,709281185,Reported,quercetin glycosides,,64,mg/L
+9/29/2017,Site 1TSCS,1064680,709281185,Reported,tannin,,334,mg/L
+9/29/2017,Site 1TSCS,1064680,709281185,Reported,pH,,3.65,
+9/29/2017,Site 1TSCS,1064680,709281185,Reported,polymeric anthocyanins/tannin index,,0.048,
+9/29/2017,Site 1TSCS,1064680,709281185,Reported,polymeric anthocyanins,,16,mg/L
+9/29/2017,Site 1TSCS,1064680,709281185,Reported,berry weight,,1.03,g/berry
+9/29/2017,Site 1TSCS,1064680,709281185,Reported,glucose + fructose,,234,g/L
+9/29/2017,Site 1TSCS,1064680,709281185,Reported,catechin/tannin index,,0.081,
+9/29/2017,Site 1TSCS,1064680,709281185,Reported,catechin,,27,mg/L
+9/29/2017,Site 1TSCS,1064680,709281185,Reported,brix,,23.4,degrees
+9/29/2017,Site 1TSCS,1064680,709281185,Reported,L-malic acid,,2.09,g/L
+9/17/2017,Black Sears Site 4,1057039,709160625,Reported,titratable acidity,,6.7,g/L
+9/17/2017,Black Sears Site 4,1057039,709160625,Reported,total anthocyanins,,812,mg/L
+9/17/2017,Black Sears Site 4,1057039,709160625,Reported,sugar per berry (by weight),,0.478,g/berry
+9/17/2017,Black Sears Site 4,1057039,709160625,Reported,quercetin glycosides,,24,mg/L
+9/17/2017,Black Sears Site 4,1057039,709160625,Reported,tannin,,800,mg/L
+9/17/2017,Black Sears Site 4,1057039,709160625,Reported,pH,,3.70,
+9/17/2017,Black Sears Site 4,1057039,709160625,Reported,polymeric anthocyanins/tannin index,,0.031,
+9/17/2017,Black Sears Site 4,1057039,709160625,Reported,polymeric anthocyanins,,25,mg/L
+9/17/2017,Black Sears Site 4,1057039,709160625,Reported,berry weight,,1.60,g/berry
+9/17/2017,Black Sears Site 4,1057039,709160625,Reported,glucose + fructose,,313,g/L
+9/17/2017,Black Sears Site 4,1057039,709160625,Reported,catechin/tannin index,,0.062,
+9/17/2017,Black Sears Site 4,1057039,709160625,Reported,catechin,,50,mg/L
+9/17/2017,Black Sears Site 4,1057039,709160625,Reported,brix,,29.9,degrees
+9/17/2017,Black Sears Site 4,1057039,709160625,Reported,L-malic acid,,4.03,g/L
+9/16/2017,Black Sears Site 1,1056434,709151021,Reported,titratable acidity,,7.9,g/L
+9/16/2017,Black Sears Site 1,1056434,709151021,Reported,total anthocyanins,,671,mg/L
+9/16/2017,Black Sears Site 1,1056434,709151021,Reported,sugar per berry (by weight),,0.440,g/berry
+9/16/2017,Black Sears Site 1,1056434,709151021,Reported,quercetin glycosides,,25,mg/L
+9/16/2017,Black Sears Site 1,1056434,709151021,Reported,tannin,,566,mg/L
+9/16/2017,Black Sears Site 1,1056434,709151021,Reported,pH,,3.62,
+9/16/2017,Black Sears Site 1,1056434,709151021,Reported,polymeric anthocyanins/tannin index,,0.023,
+9/16/2017,Black Sears Site 1,1056434,709151021,Reported,polymeric anthocyanins,,13,mg/L
+9/16/2017,Black Sears Site 1,1056434,709151021,Reported,berry weight,,1.85,g/berry
+9/16/2017,Black Sears Site 1,1056434,709151021,Reported,glucose + fructose,,246,g/L
+9/16/2017,Black Sears Site 1,1056434,709151021,Reported,catechin/tannin index,,0.065,
+9/16/2017,Black Sears Site 1,1056434,709151021,Reported,catechin,,37,mg/L
+9/16/2017,Black Sears Site 1,1056434,709151021,Reported,brix,,23.8,degrees
+9/16/2017,Black Sears Site 1,1056434,709151021,Reported,L-malic acid,,4.57,g/L
+9/15/2017,Black Sears Site 3,1055894,709141441,Reported,titratable acidity,,8.0,g/L
+9/15/2017,Black Sears Site 3,1055894,709141441,Reported,total anthocyanins,,684,mg/L
+9/15/2017,Black Sears Site 3,1055894,709141441,Reported,sugar per berry (by weight),,0.448,g/berry
+9/15/2017,Black Sears Site 3,1055894,709141441,Reported,quercetin glycosides,,31,mg/L
+9/15/2017,Black Sears Site 3,1055894,709141441,Reported,tannin,,508,mg/L
+9/15/2017,Black Sears Site 3,1055894,709141441,Reported,pH,,3.48,
+9/15/2017,Black Sears Site 3,1055894,709141441,Reported,polymeric anthocyanins/tannin index,,0.032,
+9/15/2017,Black Sears Site 3,1055894,709141441,Reported,polymeric anthocyanins,,16,mg/L
+9/15/2017,Black Sears Site 3,1055894,709141441,Reported,berry weight,,2.02,g/berry
+9/15/2017,Black Sears Site 3,1055894,709141441,Reported,glucose + fructose,,225,g/L
+9/15/2017,Black Sears Site 3,1055894,709141441,Reported,catechin/tannin index,,0.102,
+9/15/2017,Black Sears Site 3,1055894,709141441,Reported,catechin,,52,mg/L
+9/15/2017,Black Sears Site 3,1055894,709141441,Reported,brix,,22.2,degrees
+9/15/2017,Black Sears Site 3,1055894,709141441,Reported,L-malic acid,,3.91,g/L
+9/15/2017,Black Sears Site 2,1055894,709141440,Reported,titratable acidity,,6.8,g/L
+9/15/2017,Black Sears Site 2,1055894,709141440,Reported,total anthocyanins,,719,mg/L
+9/15/2017,Black Sears Site 2,1055894,709141440,Reported,sugar per berry (by weight),,0.407,g/berry
+9/15/2017,Black Sears Site 2,1055894,709141440,Reported,quercetin glycosides,,23,mg/L
+9/15/2017,Black Sears Site 2,1055894,709141440,Reported,tannin,,603,mg/L
+9/15/2017,Black Sears Site 2,1055894,709141440,Reported,pH,,3.58,
+9/15/2017,Black Sears Site 2,1055894,709141440,Reported,polymeric anthocyanins/tannin index,,0.033,
+9/15/2017,Black Sears Site 2,1055894,709141440,Reported,polymeric anthocyanins,,20,mg/L
+9/15/2017,Black Sears Site 2,1055894,709141440,Reported,berry weight,,1.68,g/berry
+9/15/2017,Black Sears Site 2,1055894,709141440,Reported,glucose + fructose,,251,g/L
+9/15/2017,Black Sears Site 2,1055894,709141440,Reported,catechin/tannin index,,0.050,
+9/15/2017,Black Sears Site 2,1055894,709141440,Reported,catechin,,30,mg/L
+9/15/2017,Black Sears Site 2,1055894,709141440,Reported,brix,,24.2,degrees
+9/15/2017,Black Sears Site 2,1055894,709141440,Reported,L-malic acid,,3.71,g/L
+9/8/2017,Aldo 2/3,1050825,709070697,Reported,titratable acidity,,7.3,g/L
+9/8/2017,Aldo 2/3,1050825,709070697,Reported,total anthocyanins,,962,mg/L
+9/8/2017,Aldo 2/3,1050825,709070697,Reported,sugar per berry (by weight),,0.315,g/berry
+9/8/2017,Aldo 2/3,1050825,709070697,Reported,quercetin glycosides,,31,mg/L
+9/8/2017,Aldo 2/3,1050825,709070697,Reported,tannin,,377,mg/L
+9/8/2017,Aldo 2/3,1050825,709070697,Reported,pH,,3.48,
+9/8/2017,Aldo 2/3,1050825,709070697,Reported,polymeric anthocyanins/tannin index,,0.058,
+9/8/2017,Aldo 2/3,1050825,709070697,Reported,polymeric anthocyanins,,22,mg/L
+9/8/2017,Aldo 2/3,1050825,709070697,Reported,berry weight,,1.23,g/berry
+9/8/2017,Aldo 2/3,1050825,709070697,Reported,glucose + fructose,,262,g/L
+9/8/2017,Aldo 2/3,1050825,709070697,Reported,catechin/tannin index,,0.066,
+9/8/2017,Aldo 2/3,1050825,709070697,Reported,catechin,,25,mg/L
+9/8/2017,Aldo 2/3,1050825,709070697,Reported,brix,,25.6,degrees
+9/8/2017,Aldo 2/3,1050825,709070697,Reported,L-malic acid,,2.58,g/L
+9/8/2017,ZIN 3 Tres Sabores,1050451,709061520,Reported,titratable acidity,,7.2,g/L
+9/8/2017,ZIN 3 Tres Sabores,1050451,709061520,Reported,total anthocyanins,,868,mg/L
+9/8/2017,ZIN 3 Tres Sabores,1050451,709061520,Reported,sugar per berry (by weight),,0.370,g/berry
+9/8/2017,ZIN 3 Tres Sabores,1050451,709061520,Reported,quercetin glycosides,,31,mg/L
+9/8/2017,ZIN 3 Tres Sabores,1050451,709061520,Reported,tannin,,388,mg/L
+9/8/2017,ZIN 3 Tres Sabores,1050451,709061520,Reported,pH,,3.76,
+9/8/2017,ZIN 3 Tres Sabores,1050451,709061520,Reported,polymeric anthocyanins/tannin index,,0.067,
+9/8/2017,ZIN 3 Tres Sabores,1050451,709061520,Reported,polymeric anthocyanins,,26,mg/L
+9/8/2017,ZIN 3 Tres Sabores,1050451,709061520,Reported,berry weight,,1.43,g/berry
+9/8/2017,ZIN 3 Tres Sabores,1050451,709061520,Reported,glucose + fructose,,275,g/L
+9/8/2017,ZIN 3 Tres Sabores,1050451,709061520,Reported,catechin/tannin index,,0.067,
+9/8/2017,ZIN 3 Tres Sabores,1050451,709061520,Reported,catechin,,26,mg/L
+9/8/2017,ZIN 3 Tres Sabores,1050451,709061520,Reported,brix,,25.9,degrees
+9/8/2017,ZIN 3 Tres Sabores,1050451,709061520,Reported,L-malic acid,,4.19,g/L
+9/8/2017,Site 3 Tres Sabores,1050451,709061519,Reported,titratable acidity,,7.9,g/L
+9/8/2017,Site 3 Tres Sabores,1050451,709061519,Reported,total anthocyanins,,949,mg/L
+9/8/2017,Site 3 Tres Sabores,1050451,709061519,Reported,sugar per berry (by weight),,0.341,g/berry
+9/8/2017,Site 3 Tres Sabores,1050451,709061519,Reported,quercetin glycosides,,25,mg/L
+9/8/2017,Site 3 Tres Sabores,1050451,709061519,Reported,tannin,,446,mg/L
+9/8/2017,Site 3 Tres Sabores,1050451,709061519,Reported,pH,,3.62,
+9/8/2017,Site 3 Tres Sabores,1050451,709061519,Reported,polymeric anthocyanins/tannin index,,0.063,
+9/8/2017,Site 3 Tres Sabores,1050451,709061519,Reported,polymeric anthocyanins,,28,mg/L
+9/8/2017,Site 3 Tres Sabores,1050451,709061519,Reported,berry weight,,1.36,g/berry
+9/8/2017,Site 3 Tres Sabores,1050451,709061519,Reported,glucose + fructose,,264,g/L
+9/8/2017,Site 3 Tres Sabores,1050451,709061519,Reported,catechin/tannin index,,0.085,
+9/8/2017,Site 3 Tres Sabores,1050451,709061519,Reported,catechin,,38,mg/L
+9/8/2017,Site 3 Tres Sabores,1050451,709061519,Reported,brix,,25.1,degrees
+9/8/2017,Site 3 Tres Sabores,1050451,709061519,Reported,L-malic acid,,4.46,g/L
+9/5/2017,Young Primo,1048947,709040418,Reported,titratable acidity,,10.8,g/L
+9/5/2017,Young Primo,1048947,709040418,Reported,total anthocyanins,,1324,mg/L
+9/5/2017,Young Primo,1048947,709040418,Reported,sugar per berry (by weight),,0.436,g/berry
+9/5/2017,Young Primo,1048947,709040418,Reported,quercetin glycosides,,60,mg/L
+9/5/2017,Young Primo,1048947,709040418,Reported,tannin,,393,mg/L
+9/5/2017,Young Primo,1048947,709040418,Reported,pH,,3.18,
+9/5/2017,Young Primo,1048947,709040418,Reported,polymeric anthocyanins/tannin index,,0.056,
+9/5/2017,Young Primo,1048947,709040418,Reported,polymeric anthocyanins,,22,mg/L
+9/5/2017,Young Primo,1048947,709040418,Reported,berry weight,,1.53,g/berry
+9/5/2017,Young Primo,1048947,709040418,Reported,glucose + fructose,,298,g/L
+9/5/2017,Young Primo,1048947,709040418,Reported,catechin/tannin index,,0.064,
+9/5/2017,Young Primo,1048947,709040418,Reported,catechin,,25,mg/L
+9/5/2017,Young Primo,1048947,709040418,Reported,brix,,28.5,degrees
+9/5/2017,Young Primo,1048947,709040418,Reported,L-malic acid,,3.39,g/L
+9/5/2017,Long/Well,1048947,709040417,Reported,titratable acidity,,9.0,g/L
+9/5/2017,Long/Well,1048947,709040417,Reported,total anthocyanins,,798,mg/L
+9/5/2017,Long/Well,1048947,709040417,Reported,sugar per berry (by weight),,0.477,g/berry
+9/5/2017,Long/Well,1048947,709040417,Reported,quercetin glycosides,,38,mg/L
+9/5/2017,Long/Well,1048947,709040417,Reported,tannin,,379,mg/L
+9/5/2017,Long/Well,1048947,709040417,Reported,pH,,3.28,
+9/5/2017,Long/Well,1048947,709040417,Reported,polymeric anthocyanins/tannin index,,0.047,
+9/5/2017,Long/Well,1048947,709040417,Reported,polymeric anthocyanins,,18,mg/L
+9/5/2017,Long/Well,1048947,709040417,Reported,berry weight,,1.71,g/berry
+9/5/2017,Long/Well,1048947,709040417,Reported,glucose + fructose,,296,g/L
+9/5/2017,Long/Well,1048947,709040417,Reported,catechin/tannin index,,0.063,
+9/5/2017,Long/Well,1048947,709040417,Reported,catechin,,24,mg/L
+9/5/2017,Long/Well,1048947,709040417,Reported,brix,,27.9,degrees
+9/5/2017,Long/Well,1048947,709040417,Reported,L-malic acid,,3.08,g/L
+9/5/2017,LMS,1048947,709040416,Reported,titratable acidity,,9.5,g/L
+9/5/2017,LMS,1048947,709040416,Reported,total anthocyanins,,977,mg/L
+9/5/2017,LMS,1048947,709040416,Reported,sugar per berry (by weight),,0.383,g/berry
+9/5/2017,LMS,1048947,709040416,Reported,quercetin glycosides,,29,mg/L
+9/5/2017,LMS,1048947,709040416,Reported,tannin,,283,mg/L
+9/5/2017,LMS,1048947,709040416,Reported,pH,,3.21,
+9/5/2017,LMS,1048947,709040416,Reported,polymeric anthocyanins/tannin index,,0.060,
+9/5/2017,LMS,1048947,709040416,Reported,polymeric anthocyanins,,17,mg/L
+9/5/2017,LMS,1048947,709040416,Reported,berry weight,,1.66,g/berry
+9/5/2017,LMS,1048947,709040416,Reported,glucose + fructose,,240,g/L
+9/5/2017,LMS,1048947,709040416,Reported,catechin/tannin index,,0.120,
+9/5/2017,LMS,1048947,709040416,Reported,catechin,,34,mg/L
+9/5/2017,LMS,1048947,709040416,Reported,brix,,23.1,degrees
+9/5/2017,LMS,1048947,709040416,Reported,L-malic acid,,3.65,g/L
+9/3/2017,Zin Low,1048347,709020420,Reported,titratable acidity,,7.9,g/L
+9/3/2017,Zin Low,1048347,709020420,Reported,total anthocyanins,,1089,mg/L
+9/3/2017,Zin Low,1048347,709020420,Reported,sugar per berry (by weight),,0.234,g/berry
+9/3/2017,Zin Low,1048347,709020420,Reported,quercetin glycosides,,32,mg/L
+9/3/2017,Zin Low,1048347,709020420,Reported,tannin,,397,mg/L
+9/3/2017,Zin Low,1048347,709020420,Reported,pH,,3.64,
+9/3/2017,Zin Low,1048347,709020420,Reported,polymeric anthocyanins/tannin index,,0.060,
+9/3/2017,Zin Low,1048347,709020420,Reported,polymeric anthocyanins,,24,mg/L
+9/3/2017,Zin Low,1048347,709020420,Reported,berry weight,,0.94,g/berry
+9/3/2017,Zin Low,1048347,709020420,Reported,glucose + fructose,,257,g/L
+9/3/2017,Zin Low,1048347,709020420,Reported,catechin/tannin index,,0.053,
+9/3/2017,Zin Low,1048347,709020420,Reported,catechin,,21,mg/L
+9/3/2017,Zin Low,1048347,709020420,Reported,brix,,24.9,degrees
+9/3/2017,Zin Low,1048347,709020420,Reported,L-malic acid,,4.65,g/L
+8/27/2017,Black Sears Site 4,1045242,708250684,Reported,titratable acidity,,9.7,g/L
+8/27/2017,Black Sears Site 4,1045242,708250684,Reported,total anthocyanins,,762,mg/L
+8/27/2017,Black Sears Site 4,1045242,708250684,Reported,sugar per berry (by weight),,0.494,g/berry
+8/27/2017,Black Sears Site 4,1045242,708250684,Reported,quercetin glycosides,,39,mg/L
+8/27/2017,Black Sears Site 4,1045242,708250684,Reported,tannin,,715,mg/L
+8/27/2017,Black Sears Site 4,1045242,708250684,Reported,pH,,3.27,
+8/27/2017,Black Sears Site 4,1045242,708250684,Reported,polymeric anthocyanins/tannin index,,0.013,
+8/27/2017,Black Sears Site 4,1045242,708250684,Reported,polymeric anthocyanins,,9,mg/L
+8/27/2017,Black Sears Site 4,1045242,708250684,Reported,berry weight,,2.13,g/berry
+8/27/2017,Black Sears Site 4,1045242,708250684,Reported,glucose + fructose,,240,g/L
+8/27/2017,Black Sears Site 4,1045242,708250684,Reported,catechin/tannin index,,0.096,
+8/27/2017,Black Sears Site 4,1045242,708250684,Reported,catechin,,69,mg/L
+8/27/2017,Black Sears Site 4,1045242,708250684,Reported,brix,,23.2,degrees
+8/27/2017,Black Sears Site 4,1045242,708250684,Reported,L-malic acid,,5.06,g/L
+8/27/2017,Black Sears Site 3,1045242,708250683,Reported,titratable acidity,,13.9,g/L
+8/27/2017,Black Sears Site 3,1045242,708250683,Reported,total anthocyanins,,930,mg/L
+8/27/2017,Black Sears Site 3,1045242,708250683,Reported,sugar per berry (by weight),,0.376,g/berry
+8/27/2017,Black Sears Site 3,1045242,708250683,Reported,quercetin glycosides,,42,mg/L
+8/27/2017,Black Sears Site 3,1045242,708250683,Reported,tannin,,641,mg/L
+8/27/2017,Black Sears Site 3,1045242,708250683,Reported,pH,,3.08,
+8/27/2017,Black Sears Site 3,1045242,708250683,Reported,polymeric anthocyanins/tannin index,,0.011,
+8/27/2017,Black Sears Site 3,1045242,708250683,Reported,polymeric anthocyanins,,7,mg/L
+8/27/2017,Black Sears Site 3,1045242,708250683,Reported,berry weight,,1.94,g/berry
+8/27/2017,Black Sears Site 3,1045242,708250683,Reported,glucose + fructose,,188,g/L
+8/27/2017,Black Sears Site 3,1045242,708250683,Reported,catechin/tannin index,,0.122,
+8/27/2017,Black Sears Site 3,1045242,708250683,Reported,catechin,,78,mg/L
+8/27/2017,Black Sears Site 3,1045242,708250683,Reported,brix,,19.4,degrees
+8/27/2017,Black Sears Site 3,1045242,708250683,Reported,L-malic acid,,7.89,g/L
+8/27/2017,Black Sears Site 2,1045242,708250682,Reported,titratable acidity,,13.3,g/L
+8/27/2017,Black Sears Site 2,1045242,708250682,Reported,total anthocyanins,,880,mg/L
+8/27/2017,Black Sears Site 2,1045242,708250682,Reported,sugar per berry (by weight),,0.372,g/berry
+8/27/2017,Black Sears Site 2,1045242,708250682,Reported,quercetin glycosides,,29,mg/L
+8/27/2017,Black Sears Site 2,1045242,708250682,Reported,tannin,,660,mg/L
+8/27/2017,Black Sears Site 2,1045242,708250682,Reported,pH,,3.16,
+8/27/2017,Black Sears Site 2,1045242,708250682,Reported,polymeric anthocyanins/tannin index,,<0.01,
+8/27/2017,Black Sears Site 2,1045242,708250682,Reported,polymeric anthocyanins,,6,mg/L
+8/27/2017,Black Sears Site 2,1045242,708250682,Reported,berry weight,,1.74,g/berry
+8/27/2017,Black Sears Site 2,1045242,708250682,Reported,glucose + fructose,,213,g/L
+8/27/2017,Black Sears Site 2,1045242,708250682,Reported,catechin/tannin index,,0.132,
+8/27/2017,Black Sears Site 2,1045242,708250682,Reported,catechin,,87,mg/L
+8/27/2017,Black Sears Site 2,1045242,708250682,Reported,brix,,21.4,degrees
+8/27/2017,Black Sears Site 2,1045242,708250682,Reported,L-malic acid,,8.29,g/L
+8/27/2017,Black Sears Site 1,1045242,708250681,Reported,titratable acidity,,12.9,g/L
+8/27/2017,Black Sears Site 1,1045242,708250681,Reported,total anthocyanins,,606,mg/L
+8/27/2017,Black Sears Site 1,1045242,708250681,Reported,sugar per berry (by weight),,0.410,g/berry
+8/27/2017,Black Sears Site 1,1045242,708250681,Reported,quercetin glycosides,,21,mg/L
+8/27/2017,Black Sears Site 1,1045242,708250681,Reported,tannin,,545,mg/L
+8/27/2017,Black Sears Site 1,1045242,708250681,Reported,pH,,3.14,
+8/27/2017,Black Sears Site 1,1045242,708250681,Reported,polymeric anthocyanins/tannin index,,<0.01,
+8/27/2017,Black Sears Site 1,1045242,708250681,Reported,polymeric anthocyanins,,5,mg/L
+8/27/2017,Black Sears Site 1,1045242,708250681,Reported,berry weight,,1.99,g/berry
+8/27/2017,Black Sears Site 1,1045242,708250681,Reported,glucose + fructose,,206,g/L
+8/27/2017,Black Sears Site 1,1045242,708250681,Reported,catechin/tannin index,,0.176,
+8/27/2017,Black Sears Site 1,1045242,708250681,Reported,catechin,,96,mg/L
+8/27/2017,Black Sears Site 1,1045242,708250681,Reported,brix,,20.6,degrees
+8/27/2017,Black Sears Site 1,1045242,708250681,Reported,L-malic acid,,7.36,g/L
+8/9/2017,"Rossi, Sensor",1040181,708080463,Reported,total anthocyanins,,540,mg/L
+8/9/2017,"Rossi, Sensor",1040181,708080463,Reported,quercetin glycosides,,28,mg/L
+8/9/2017,"Rossi, Sensor",1040181,708080463,Reported,tannin,,279,mg/L
+8/9/2017,"Rossi, Sensor",1040181,708080463,Reported,polymeric anthocyanins/tannin index,,0.011,
+8/9/2017,"Rossi, Sensor",1040181,708080463,Reported,polymeric anthocyanins,,3,mg/L
+8/9/2017,"Rossi, Sensor",1040181,708080463,Reported,catechin/tannin index,,0.219,
+8/9/2017,"Rossi, Sensor",1040181,708080463,Reported,catechin,,61,mg/L
+8/9/2017,"Rossi, Random",1040181,708080462,Reported,total anthocyanins,,446,mg/L
+8/9/2017,"Rossi, Random",1040181,708080462,Reported,quercetin glycosides,,67,mg/L
+8/9/2017,"Rossi, Random",1040181,708080462,Reported,tannin,,414,mg/L
+8/9/2017,"Rossi, Random",1040181,708080462,Reported,polymeric anthocyanins/tannin index,,<0.01,
+8/9/2017,"Rossi, Random",1040181,708080462,Reported,polymeric anthocyanins,,3,mg/L
+8/9/2017,"Rossi, Random",1040181,708080462,Reported,catechin/tannin index,,0.198,
+8/9/2017,"Rossi, Random",1040181,708080462,Reported,catechin,,82,mg/L
+8/9/2017,"Long Rows, Sensor",1040181,708080461,Reported,total anthocyanins,,480,mg/L
+8/9/2017,"Long Rows, Sensor",1040181,708080461,Reported,quercetin glycosides,,28,mg/L
+8/9/2017,"Long Rows, Sensor",1040181,708080461,Reported,tannin,,447,mg/L
+8/9/2017,"Long Rows, Sensor",1040181,708080461,Reported,polymeric anthocyanins/tannin index,,<0.01,
+8/9/2017,"Long Rows, Sensor",1040181,708080461,Reported,polymeric anthocyanins,,3,mg/L
+8/9/2017,"Long Rows, Sensor",1040181,708080461,Reported,catechin/tannin index,,0.306,
+8/9/2017,"Long Rows, Sensor",1040181,708080461,Reported,catechin,,137,mg/L
+8/9/2017,"Long Rows, Random",1040181,708080460,Reported,total anthocyanins,,383,mg/L
+8/9/2017,"Long Rows, Random",1040181,708080460,Reported,quercetin glycosides,,70,mg/L
+8/9/2017,"Long Rows, Random",1040181,708080460,Reported,tannin,,484,mg/L
+8/9/2017,"Long Rows, Random",1040181,708080460,Reported,polymeric anthocyanins/tannin index,,<0.01,
+8/9/2017,"Long Rows, Random",1040181,708080460,Reported,polymeric anthocyanins,,3,mg/L
+8/9/2017,"Long Rows, Random",1040181,708080460,Reported,catechin/tannin index,,0.211,
+8/9/2017,"Long Rows, Random",1040181,708080460,Reported,catechin,,102,mg/L
+8/9/2017,"Rossi, Sensor",1040180,708080459,Reported,titratable acidity,,13.4,g/L
+8/9/2017,"Rossi, Sensor",1040180,708080459,Reported,sugar per berry (by weight),,0.314,g/berry
+8/9/2017,"Rossi, Sensor",1040180,708080459,Reported,pH,,3.04,
+8/9/2017,"Rossi, Sensor",1040180,708080459,Reported,berry weight,,1.69,g/berry
+8/9/2017,"Rossi, Sensor",1040180,708080459,Reported,glucose + fructose,,182,g/L
+8/9/2017,"Rossi, Sensor",1040180,708080459,Reported,brix,,18.6,degrees
+8/9/2017,"Rossi, Sensor",1040180,708080459,Reported,L-malic acid,,6.65,g/L
+8/9/2017,"Rossi, Random",1040180,708080458,Reported,titratable acidity,,14.0,g/L
+8/9/2017,"Rossi, Random",1040180,708080458,Reported,sugar per berry (by weight),,0.299,g/berry
+8/9/2017,"Rossi, Random",1040180,708080458,Reported,pH,,3.00,
+8/9/2017,"Rossi, Random",1040180,708080458,Reported,berry weight,,1.87,g/berry
+8/9/2017,"Rossi, Random",1040180,708080458,Reported,glucose + fructose,,155,g/L
+8/9/2017,"Rossi, Random",1040180,708080458,Reported,brix,,16.0,degrees
+8/9/2017,"Rossi, Random",1040180,708080458,Reported,L-malic acid,,6.91,g/L
+8/9/2017,"Long Rows, Sensor",1040180,708080457,Reported,titratable acidity,,17.2,g/L
+8/9/2017,"Long Rows, Sensor",1040180,708080457,Reported,sugar per berry (by weight),,0.304,g/berry
+8/9/2017,"Long Rows, Sensor",1040180,708080457,Reported,pH,,2.93,
+8/9/2017,"Long Rows, Sensor",1040180,708080457,Reported,berry weight,,1.82,g/berry
+8/9/2017,"Long Rows, Sensor",1040180,708080457,Reported,glucose + fructose,,161,g/L
+8/9/2017,"Long Rows, Sensor",1040180,708080457,Reported,brix,,16.7,degrees
+8/9/2017,"Long Rows, Sensor",1040180,708080457,Reported,L-malic acid,,9.60,g/L
+8/9/2017,"Long Rows, Random",1040180,708080456,Reported,titratable acidity,,14.8,g/L
+8/9/2017,"Long Rows, Random",1040180,708080456,Reported,sugar per berry (by weight),,0.312,g/berry
+8/9/2017,"Long Rows, Random",1040180,708080456,Reported,pH,,3.03,
+8/9/2017,"Long Rows, Random",1040180,708080456,Reported,berry weight,,1.95,g/berry
+8/9/2017,"Long Rows, Random",1040180,708080456,Reported,glucose + fructose,,154,g/L
+8/9/2017,"Long Rows, Random",1040180,708080456,Reported,brix,,16.0,degrees
+8/9/2017,"Long Rows, Random",1040180,708080456,Reported,L-malic acid,,8.14,g/L
+8/7/2017,"Aldo's block, Sensor",1039524,708040286,Reported,total anthocyanins,,668,mg/L
+8/7/2017,"Aldo's block, Sensor",1039524,708040286,Reported,quercetin glycosides,,44,mg/L
+8/7/2017,"Aldo's block, Sensor",1039524,708040286,Reported,tannin,,374,mg/L
+8/7/2017,"Aldo's block, Sensor",1039524,708040286,Reported,polymeric anthocyanins/tannin index,,<0.01,
+8/7/2017,"Aldo's block, Sensor",1039524,708040286,Reported,polymeric anthocyanins,,3,mg/L
+8/7/2017,"Aldo's block, Sensor",1039524,708040286,Reported,catechin/tannin index,,0.278,
+8/7/2017,"Aldo's block, Sensor",1039524,708040286,Reported,catechin,,104,mg/L
+8/7/2017,"Aldo's block, Random",1039524,708040285,Reported,total anthocyanins,,510,mg/L
+8/7/2017,"Aldo's block, Random",1039524,708040285,Reported,quercetin glycosides,,77,mg/L
+8/7/2017,"Aldo's block, Random",1039524,708040285,Reported,tannin,,395,mg/L
+8/7/2017,"Aldo's block, Random",1039524,708040285,Reported,polymeric anthocyanins/tannin index,,<0.01,
+8/7/2017,"Aldo's block, Random",1039524,708040285,Reported,polymeric anthocyanins,,3,mg/L
+8/7/2017,"Aldo's block, Random",1039524,708040285,Reported,catechin/tannin index,,0.248,
+8/7/2017,"Aldo's block, Random",1039524,708040285,Reported,catechin,,98,mg/L
+8/4/2017,"Aldo's block, Sensor",1039523,708040284,Reported,titratable acidity,,14.4,g/L
+8/4/2017,"Aldo's block, Sensor",1039523,708040284,Reported,sugar per berry (by weight),,0.248,g/berry
+8/4/2017,"Aldo's block, Sensor",1039523,708040284,Reported,pH,,2.90,
+8/4/2017,"Aldo's block, Sensor",1039523,708040284,Reported,berry weight,,1.59,g/berry
+8/4/2017,"Aldo's block, Sensor",1039523,708040284,Reported,glucose + fructose,,144,g/L
+8/4/2017,"Aldo's block, Sensor",1039523,708040284,Reported,brix,,15.6,degrees
+8/4/2017,"Aldo's block, Sensor",1039523,708040284,Reported,L-malic acid,,7.25,g/L
+8/4/2017,"Aldo's block, Random",1039523,708040283,Reported,titratable acidity,,15.2,g/L
+8/4/2017,"Aldo's block, Random",1039523,708040283,Reported,sugar per berry (by weight),,0.289,g/berry
+8/4/2017,"Aldo's block, Random",1039523,708040283,Reported,pH,,2.95,
+8/4/2017,"Aldo's block, Random",1039523,708040283,Reported,berry weight,,1.89,g/berry
+8/4/2017,"Aldo's block, Random",1039523,708040283,Reported,glucose + fructose,,140,g/L
+8/4/2017,"Aldo's block, Random",1039523,708040283,Reported,brix,,15.3,degrees
+8/4/2017,"Aldo's block, Random",1039523,708040283,Reported,L-malic acid,,7.87,g/L
+8/3/2017,"Young Primitivo, Sensor",1038989,708020550,Reported,total anthocyanins,,342,mg/L
+8/3/2017,"Young Primitivo, Sensor",1038989,708020550,Reported,quercetin glycosides,,32,mg/L
+8/3/2017,"Young Primitivo, Sensor",1038989,708020550,Reported,tannin,,191,mg/L
+8/3/2017,"Young Primitivo, Sensor",1038989,708020550,Reported,polymeric anthocyanins/tannin index,,0.010,
+8/3/2017,"Young Primitivo, Sensor",1038989,708020550,Reported,polymeric anthocyanins,,2,mg/L
+8/3/2017,"Young Primitivo, Sensor",1038989,708020550,Reported,catechin/tannin index,,0.754,
+8/3/2017,"Young Primitivo, Sensor",1038989,708020550,Reported,catechin,,144,mg/L
+8/3/2017,"Young Primitivo, Random",1038989,708020549,Reported,total anthocyanins,,299,mg/L
+8/3/2017,"Young Primitivo, Random",1038989,708020549,Reported,quercetin glycosides,,45,mg/L
+8/3/2017,"Young Primitivo, Random",1038989,708020549,Reported,tannin,,306,mg/L
+8/3/2017,"Young Primitivo, Random",1038989,708020549,Reported,polymeric anthocyanins/tannin index,,<0.01,
+8/3/2017,"Young Primitivo, Random",1038989,708020549,Reported,polymeric anthocyanins,,2,mg/L
+8/3/2017,"Young Primitivo, Random",1038989,708020549,Reported,catechin/tannin index,,0.431,
+8/3/2017,"Young Primitivo, Random",1038989,708020549,Reported,catechin,,132,mg/L
+8/2/2017,"Young Primitivo, Sensor",1038988,708020548,Reported,titratable acidity,,21.8,g/L
+8/2/2017,"Young Primitivo, Sensor",1038988,708020548,Reported,sugar per berry (by weight),,0.264,g/berry
+8/2/2017,"Young Primitivo, Sensor",1038988,708020548,Reported,pH,,2.75,
+8/2/2017,"Young Primitivo, Sensor",1038988,708020548,Reported,berry weight,,1.67,g/berry
+8/2/2017,"Young Primitivo, Sensor",1038988,708020548,Reported,glucose + fructose,,143,g/L
+8/2/2017,"Young Primitivo, Sensor",1038988,708020548,Reported,brix,,15.8,degrees
+8/2/2017,"Young Primitivo, Sensor",1038988,708020548,Reported,L-malic acid,,13.1,g/L
+8/2/2017,"Young Primitivo, Random",1038988,708020547,Reported,titratable acidity,,19.3,g/L
+8/2/2017,"Young Primitivo, Random",1038988,708020547,Reported,sugar per berry (by weight),,0.277,g/berry
+8/2/2017,"Young Primitivo, Random",1038988,708020547,Reported,pH,,2.80,
+8/2/2017,"Young Primitivo, Random",1038988,708020547,Reported,berry weight,,1.82,g/berry
+8/2/2017,"Young Primitivo, Random",1038988,708020547,Reported,glucose + fructose,,136,g/L
+8/2/2017,"Young Primitivo, Random",1038988,708020547,Reported,brix,,15.2,degrees
+8/2/2017,"Young Primitivo, Random",1038988,708020547,Reported,L-malic acid,,10.40,g/L
+10/3/2016,Site 4 A,0952593,610011016A,Reported,catechin,,28,mg/L
+10/3/2016,Site 4 A,0952593,610011016A,Reported,catechin/tannin index,,0.081,
+10/3/2016,Site 4 A,0952593,610011016A,Reported,polymeric anthocyanins,,20,mg/L
+10/3/2016,Site 4 A,0952593,610011016A,Reported,polymeric anthocyanins/tannin index,,0.058,
+10/3/2016,Site 4 A,0952593,610011016A,Reported,tannin,,346,mg/L
+10/3/2016,Site 4 A,0952593,610011016A,Reported,quercetin glycosides,,64,mg/L
+10/3/2016,Site 4 A,0952593,610011016A,Reported,total anthocyanins,,814,mg/L
+10/3/2016,Site 4 B,0952593,610011017A,Reported,catechin,,25,mg/L
+10/3/2016,Site 4 B,0952593,610011017A,Reported,catechin/tannin index,,0.064,
+10/3/2016,Site 4 B,0952593,610011017A,Reported,polymeric anthocyanins,,20,mg/L
+10/3/2016,Site 4 B,0952593,610011017A,Reported,polymeric anthocyanins/tannin index,,0.052,
+10/3/2016,Site 4 B,0952593,610011017A,Reported,tannin,,388,mg/L
+10/3/2016,Site 4 B,0952593,610011017A,Reported,quercetin glycosides,,61,mg/L
+10/3/2016,Site 4 B,0952593,610011017A,Reported,total anthocyanins,,891,mg/L
+10/1/2016,Site 4 A,0952592,610011016,Reported,Comments,,200 berries counted,
+10/1/2016,Site 4 A,0952592,610011016,Reported,L-malic acid,,2.40,g/L
+10/1/2016,Site 4 A,0952592,610011016,Reported,brix,,25.7,degrees
+10/1/2016,Site 4 A,0952592,610011016,Reported,glucose + fructose,,274,g/L
+10/1/2016,Site 4 A,0952592,610011016,Reported,berry weight,,1.32,g/berry
+10/1/2016,Site 4 A,0952592,610011016,Reported,pH,,3.62,
+10/1/2016,Site 4 A,0952592,610011016,Reported,sugar per berry,,0.339,g/berry
+10/1/2016,Site 4 A,0952592,610011016,Reported,titratable acidity,,5.8,g/L
+10/1/2016,Site 4 B,0952592,610011017,Reported,Comments,,200 berries counted,
+10/1/2016,Site 4 B,0952592,610011017,Reported,L-malic acid,,2.00,g/L
+10/1/2016,Site 4 B,0952592,610011017,Reported,brix,,26.0,degrees
+10/1/2016,Site 4 B,0952592,610011017,Reported,glucose + fructose,,277,g/L
+10/1/2016,Site 4 B,0952592,610011017,Reported,berry weight,,1.06,g/berry
+10/1/2016,Site 4 B,0952592,610011017,Reported,pH,,3.56,
+10/1/2016,Site 4 B,0952592,610011017,Reported,sugar per berry,,0.276,g/berry
+10/1/2016,Site 4 B,0952592,610011017,Reported,titratable acidity,,5.5,g/L
+9/26/2016,2A Site 2 (Tres Sabores),0947887,609260362A,Reported,catechin,,43,mg/L
+9/26/2016,2A Site 2 (Tres Sabores),0947887,609260362A,Reported,catechin/tannin index,,0.129,
+9/26/2016,2A Site 2 (Tres Sabores),0947887,609260362A,Reported,polymeric anthocyanins,,16,mg/L
+9/26/2016,2A Site 2 (Tres Sabores),0947887,609260362A,Reported,polymeric anthocyanins/tannin index,,0.048,
+9/26/2016,2A Site 2 (Tres Sabores),0947887,609260362A,Reported,tannin,,334,mg/L
+9/26/2016,2A Site 2 (Tres Sabores),0947887,609260362A,Reported,quercetin glycosides,,26,mg/L
+9/26/2016,2A Site 2 (Tres Sabores),0947887,609260362A,Reported,total anthocyanins,,718,mg/L
+9/26/2016,2B (Tres Sabores),0947887,609260363A,Reported,catechin,,49,mg/L
+9/26/2016,2B (Tres Sabores),0947887,609260363A,Reported,catechin/tannin index,,0.136,
+9/26/2016,2B (Tres Sabores),0947887,609260363A,Reported,polymeric anthocyanins,,16,mg/L
+9/26/2016,2B (Tres Sabores),0947887,609260363A,Reported,polymeric anthocyanins/tannin index,,0.044,
+9/26/2016,2B (Tres Sabores),0947887,609260363A,Reported,tannin,,360,mg/L
+9/26/2016,2B (Tres Sabores),0947887,609260363A,Reported,quercetin glycosides,,25,mg/L
+9/26/2016,2B (Tres Sabores),0947887,609260363A,Reported,total anthocyanins,,690,mg/L
+9/26/2016,2A Site 2 (Tres Sabores),0947884,609260362,Reported,Comments,,200 berries counted,
+9/26/2016,2A Site 2 (Tres Sabores),0947884,609260362,Reported,L-malic acid,,4.90,g/L
+9/26/2016,2A Site 2 (Tres Sabores),0947884,609260362,Reported,brix,,24.7,degrees
+9/26/2016,2A Site 2 (Tres Sabores),0947884,609260362,Reported,glucose + fructose,,242,g/L
+9/26/2016,2A Site 2 (Tres Sabores),0947884,609260362,Reported,berry weight,,2.31,g/berry
+9/26/2016,2A Site 2 (Tres Sabores),0947884,609260362,Reported,pH,,3.79,
+9/26/2016,2A Site 2 (Tres Sabores),0947884,609260362,Reported,sugar per berry,,0.571,g/berry
+9/26/2016,2A Site 2 (Tres Sabores),0947884,609260362,Reported,titratable acidity,,6.6,g/L
+9/26/2016,2B (Tres Sabores),0947884,609260363,Reported,Comments,,200 berries counted,
+9/26/2016,2B (Tres Sabores),0947884,609260363,Reported,L-malic acid,,4.03,g/L
+9/26/2016,2B (Tres Sabores),0947884,609260363,Reported,brix,,25.6,degrees
+9/26/2016,2B (Tres Sabores),0947884,609260363,Reported,glucose + fructose,,259,g/L
+9/26/2016,2B (Tres Sabores),0947884,609260363,Reported,berry weight,,1.89,g/berry
+9/26/2016,2B (Tres Sabores),0947884,609260363,Reported,pH,,3.72,
+9/26/2016,2B (Tres Sabores),0947884,609260363,Reported,sugar per berry,,0.484,g/berry
+9/26/2016,2B (Tres Sabores),0947884,609260363,Reported,titratable acidity,,6.5,g/L
+9/25/2016,BC-6,0946917,609240591,Reported,catechin,,<1,mg/L
+9/25/2016,BC-6,0946917,609240591,Reported,catechin/tannin index,,N/A,
+9/25/2016,BC-6,0946917,609240591,Reported,polymeric anthocyanins,,2,mg/L
+9/25/2016,BC-6,0946917,609240591,Reported,polymeric anthocyanins/tannin index,,0.051,
+9/25/2016,BC-6,0946917,609240591,Reported,tannin,,39,mg/L
+9/25/2016,BC-6,0946917,609240591,Reported,total anthocyanins,,169,mg/L
+9/24/2016,BC-6,0946915,609240590,Reported,L-malic acid,,3.55,g/L
+9/24/2016,BC-6,0946915,609240590,Reported,tartaric acid,,2.9,g/L
+9/24/2016,BC-6,0946915,609240590,Reported,brix,,26.9,degrees
+9/24/2016,BC-6,0946915,609240590,Reported,glucose + fructose,,283,g/L
+9/24/2016,BC-6,0946915,609240590,Reported,potassium,,1460,mg/L
+9/24/2016,BC-6,0946915,609240590,Reported,ammonia,,67,mg/L
+9/24/2016,BC-6,0946915,609240590,Reported,alpha-amino compounds (as N),,144,mg/L
+9/24/2016,BC-6,0946915,609240590,Reported,pH,,3.45,
+9/24/2016,BC-6,0946915,609240590,Reported,titratable acidity,,5.9,g/L
+9/24/2016,BC-6,0946915,609240590,Reported,yeast assimilable nitrogen,,199,mg/L (as N)
+9/22/2016,1A Site (Tres Sabores),0944661,609211261A,Reported,catechin,,6,mg/L
+9/22/2016,1A Site (Tres Sabores),0944661,609211261A,Reported,catechin/tannin index,,0.015,
+9/22/2016,1A Site (Tres Sabores),0944661,609211261A,Reported,polymeric anthocyanins,,19,mg/L
+9/22/2016,1A Site (Tres Sabores),0944661,609211261A,Reported,polymeric anthocyanins/tannin index,,0.046,
+9/22/2016,1A Site (Tres Sabores),0944661,609211261A,Reported,tannin,,413,mg/L
+9/22/2016,1A Site (Tres Sabores),0944661,609211261A,Reported,quercetin glycosides,,72,mg/L
+9/22/2016,1A Site (Tres Sabores),0944661,609211261A,Reported,total anthocyanins,,1229,mg/L
+9/22/2016,1B (Tres Sabores),0944661,609211262A,Reported,catechin,,15,mg/L
+9/22/2016,1B (Tres Sabores),0944661,609211262A,Reported,catechin/tannin index,,0.047,
+9/22/2016,1B (Tres Sabores),0944661,609211262A,Reported,polymeric anthocyanins,,15,mg/L
+9/22/2016,1B (Tres Sabores),0944661,609211262A,Reported,polymeric anthocyanins/tannin index,,0.047,
+9/22/2016,1B (Tres Sabores),0944661,609211262A,Reported,tannin,,320,mg/L
+9/22/2016,1B (Tres Sabores),0944661,609211262A,Reported,quercetin glycosides,,75,mg/L
+9/22/2016,1B (Tres Sabores),0944661,609211262A,Reported,total anthocyanins,,1092,mg/L
+9/21/2016,1A Site (Tres Sabores),0944660,609211261,Reported,Comments,,200 berries counted,
+9/21/2016,1A Site (Tres Sabores),0944660,609211261,Reported,L-malic acid,,1.71,g/L
+9/21/2016,1A Site (Tres Sabores),0944660,609211261,Reported,brix,,25.3,degrees
+9/21/2016,1A Site (Tres Sabores),0944660,609211261,Reported,glucose + fructose,,270,g/L
+9/21/2016,1A Site (Tres Sabores),0944660,609211261,Reported,berry weight,,1.00,g/berry
+9/21/2016,1A Site (Tres Sabores),0944660,609211261,Reported,pH,,3.41,
+9/21/2016,1A Site (Tres Sabores),0944660,609211261,Reported,sugar per berry,,0.253,g/berry
+9/21/2016,1A Site (Tres Sabores),0944660,609211261,Reported,titratable acidity,,6.2,g/L
+9/21/2016,1B (Tres Sabores),0944660,609211262,Reported,Comments,,200 berries counted,
+9/21/2016,1B (Tres Sabores),0944660,609211262,Reported,L-malic acid,,2.37,g/L
+9/21/2016,1B (Tres Sabores),0944660,609211262,Reported,brix,,24.4,degrees
+9/21/2016,1B (Tres Sabores),0944660,609211262,Reported,glucose + fructose,,260,g/L
+9/21/2016,1B (Tres Sabores),0944660,609211262,Reported,berry weight,,1.07,g/berry
+9/21/2016,1B (Tres Sabores),0944660,609211262,Reported,pH,,3.42,
+9/21/2016,1B (Tres Sabores),0944660,609211262,Reported,sugar per berry,,0.261,g/berry
+9/21/2016,1B (Tres Sabores),0944660,609211262,Reported,titratable acidity,,6.5,g/L
+9/12/2016,Black Sears Site 1 9/9/16 ,0935984,609090781,Reported,Comments,,200 berries counted,
+9/12/2016,Black Sears Site 1 9/9/16 ,0935984,609090781,Reported,L-malic acid,,6.12,g/L
+9/12/2016,Black Sears Site 1 9/9/16 ,0935984,609090781,Reported,brix,,22.8,degrees
+9/12/2016,Black Sears Site 1 9/9/16 ,0935984,609090781,Reported,catechin,,17,mg/L
+9/12/2016,Black Sears Site 1 9/9/16 ,0935984,609090781,Reported,catechin/tannin index,,0.064,
+9/12/2016,Black Sears Site 1 9/9/16 ,0935984,609090781,Reported,glucose + fructose,,230,g/L
+9/12/2016,Black Sears Site 1 9/9/16 ,0935984,609090781,Reported,berry weight,,2.12,g/berry
+9/12/2016,Black Sears Site 1 9/9/16 ,0935984,609090781,Reported,polymeric anthocyanins,,11,mg/L
+9/12/2016,Black Sears Site 1 9/9/16 ,0935984,609090781,Reported,polymeric anthocyanins/tannin index,,0.042,
+9/12/2016,Black Sears Site 1 9/9/16 ,0935984,609090781,Reported,pH,,3.62,
+9/12/2016,Black Sears Site 1 9/9/16 ,0935984,609090781,Reported,tannin,,264,mg/L
+9/12/2016,Black Sears Site 1 9/9/16 ,0935984,609090781,Reported,quercetin glycosides,,45,mg/L
+9/12/2016,Black Sears Site 1 9/9/16 ,0935984,609090781,Reported,sugar per berry,,0.483,g/berry
+9/12/2016,Black Sears Site 1 9/9/16 ,0935984,609090781,Reported,titratable acidity,,8.7,g/L
+9/12/2016,Black Sears Site 1 9/9/16 ,0935984,609090781,Reported,total anthocyanins,,945,mg/L
+9/12/2016,Black  Sears Site 1 near sensor 9/9/16 ,0935984,609090782,Reported,Comments,,200 berries counted,
+9/12/2016,Black  Sears Site 1 near sensor 9/9/16 ,0935984,609090782,Reported,L-malic acid,,5.65,g/L
+9/12/2016,Black  Sears Site 1 near sensor 9/9/16 ,0935984,609090782,Reported,brix,,23.9,degrees
+9/12/2016,Black  Sears Site 1 near sensor 9/9/16 ,0935984,609090782,Reported,catechin,,18,mg/L
+9/12/2016,Black  Sears Site 1 near sensor 9/9/16 ,0935984,609090782,Reported,catechin/tannin index,,0.057,
+9/12/2016,Black  Sears Site 1 near sensor 9/9/16 ,0935984,609090782,Reported,glucose + fructose,,245,g/L
+9/12/2016,Black  Sears Site 1 near sensor 9/9/16 ,0935984,609090782,Reported,berry weight,,2.24,g/berry
+9/12/2016,Black  Sears Site 1 near sensor 9/9/16 ,0935984,609090782,Reported,polymeric anthocyanins,,9,mg/L
+9/12/2016,Black  Sears Site 1 near sensor 9/9/16 ,0935984,609090782,Reported,polymeric anthocyanins/tannin index,,0.029,
+9/12/2016,Black  Sears Site 1 near sensor 9/9/16 ,0935984,609090782,Reported,pH,,3.42,
+9/12/2016,Black  Sears Site 1 near sensor 9/9/16 ,0935984,609090782,Reported,tannin,,314,mg/L
+9/12/2016,Black  Sears Site 1 near sensor 9/9/16 ,0935984,609090782,Reported,quercetin glycosides,,37,mg/L
+9/12/2016,Black  Sears Site 1 near sensor 9/9/16 ,0935984,609090782,Reported,sugar per berry,,0.535,g/berry
+9/12/2016,Black  Sears Site 1 near sensor 9/9/16 ,0935984,609090782,Reported,titratable acidity,,8.9,g/L
+9/12/2016,Black  Sears Site 1 near sensor 9/9/16 ,0935984,609090782,Reported,total anthocyanins,,844,mg/L
+9/12/2016,Black Sears Site 2 9/9/16 ,0935984,609090783,Reported,Comments,,200 berries counted,
+9/12/2016,Black Sears Site 2 9/9/16 ,0935984,609090783,Reported,L-malic acid,,5.17,g/L
+9/12/2016,Black Sears Site 2 9/9/16 ,0935984,609090783,Reported,brix,,25.6,degrees
+9/12/2016,Black Sears Site 2 9/9/16 ,0935984,609090783,Reported,catechin,,21,mg/L
+9/12/2016,Black Sears Site 2 9/9/16 ,0935984,609090783,Reported,catechin/tannin index,,0.065,
+9/12/2016,Black Sears Site 2 9/9/16 ,0935984,609090783,Reported,glucose + fructose,,268,g/L
+9/12/2016,Black Sears Site 2 9/9/16 ,0935984,609090783,Reported,berry weight,,2.44,g/berry
+9/12/2016,Black Sears Site 2 9/9/16 ,0935984,609090783,Reported,polymeric anthocyanins,,11,mg/L
+9/12/2016,Black Sears Site 2 9/9/16 ,0935984,609090783,Reported,polymeric anthocyanins/tannin index,,0.034,
+9/12/2016,Black Sears Site 2 9/9/16 ,0935984,609090783,Reported,pH,,3.51,
+9/12/2016,Black Sears Site 2 9/9/16 ,0935984,609090783,Reported,tannin,,323,mg/L
+9/12/2016,Black Sears Site 2 9/9/16 ,0935984,609090783,Reported,quercetin glycosides,,51,mg/L
+9/12/2016,Black Sears Site 2 9/9/16 ,0935984,609090783,Reported,sugar per berry,,0.625,g/berry
+9/12/2016,Black Sears Site 2 9/9/16 ,0935984,609090783,Reported,titratable acidity,,8.9,g/L
+9/12/2016,Black Sears Site 2 9/9/16 ,0935984,609090783,Reported,total anthocyanins,,951,mg/L
+9/12/2016,Black Sears Site 2 near sensor 9/9/16 ,0935984,609090784,Reported,Comments,,200 berries counted,
+9/12/2016,Black Sears Site 2 near sensor 9/9/16 ,0935984,609090784,Reported,L-malic acid,,5.11,g/L
+9/12/2016,Black Sears Site 2 near sensor 9/9/16 ,0935984,609090784,Reported,brix,,23.3,degrees
+9/12/2016,Black Sears Site 2 near sensor 9/9/16 ,0935984,609090784,Reported,catechin,,20,mg/L
+9/12/2016,Black Sears Site 2 near sensor 9/9/16 ,0935984,609090784,Reported,catechin/tannin index,,0.065,
+9/12/2016,Black Sears Site 2 near sensor 9/9/16 ,0935984,609090784,Reported,glucose + fructose,,239,g/L
+9/12/2016,Black Sears Site 2 near sensor 9/9/16 ,0935984,609090784,Reported,berry weight,,2.00,g/berry
+9/12/2016,Black Sears Site 2 near sensor 9/9/16 ,0935984,609090784,Reported,polymeric anthocyanins,,13,mg/L
+9/12/2016,Black Sears Site 2 near sensor 9/9/16 ,0935984,609090784,Reported,polymeric anthocyanins/tannin index,,0.042,
+9/12/2016,Black Sears Site 2 near sensor 9/9/16 ,0935984,609090784,Reported,pH,,3.65,
+9/12/2016,Black Sears Site 2 near sensor 9/9/16 ,0935984,609090784,Reported,tannin,,309,mg/L
+9/12/2016,Black Sears Site 2 near sensor 9/9/16 ,0935984,609090784,Reported,quercetin glycosides,,46,mg/L
+9/12/2016,Black Sears Site 2 near sensor 9/9/16 ,0935984,609090784,Reported,sugar per berry,,0.466,g/berry
+9/12/2016,Black Sears Site 2 near sensor 9/9/16 ,0935984,609090784,Reported,titratable acidity,,7.7,g/L
+9/12/2016,Black Sears Site 2 near sensor 9/9/16 ,0935984,609090784,Reported,total anthocyanins,,949,mg/L
+9/12/2016,Black Sears Site 3 9/9/16 ,0935984,609090785,Reported,Comments,,200 berries counted,
+9/12/2016,Black Sears Site 3 9/9/16 ,0935984,609090785,Reported,L-malic acid,,4.76,g/L
+9/12/2016,Black Sears Site 3 9/9/16 ,0935984,609090785,Reported,brix,,23.1,degrees
+9/12/2016,Black Sears Site 3 9/9/16 ,0935984,609090785,Reported,catechin,,32,mg/L
+9/12/2016,Black Sears Site 3 9/9/16 ,0935984,609090785,Reported,catechin/tannin index,,0.107,
+9/12/2016,Black Sears Site 3 9/9/16 ,0935984,609090785,Reported,glucose + fructose,,235,g/L
+9/12/2016,Black Sears Site 3 9/9/16 ,0935984,609090785,Reported,berry weight,,2.17,g/berry
+9/12/2016,Black Sears Site 3 9/9/16 ,0935984,609090785,Reported,polymeric anthocyanins,,10,mg/L
+9/12/2016,Black Sears Site 3 9/9/16 ,0935984,609090785,Reported,polymeric anthocyanins/tannin index,,0.034,
+9/12/2016,Black Sears Site 3 9/9/16 ,0935984,609090785,Reported,pH,,3.49,
+9/12/2016,Black Sears Site 3 9/9/16 ,0935984,609090785,Reported,tannin,,298,mg/L
+9/12/2016,Black Sears Site 3 9/9/16 ,0935984,609090785,Reported,quercetin glycosides,,41,mg/L
+9/12/2016,Black Sears Site 3 9/9/16 ,0935984,609090785,Reported,sugar per berry,,0.501,g/berry
+9/12/2016,Black Sears Site 3 9/9/16 ,0935984,609090785,Reported,titratable acidity,,8.0,g/L
+9/12/2016,Black Sears Site 3 9/9/16 ,0935984,609090785,Reported,total anthocyanins,,758,mg/L
+9/12/2016,Black Sears Site 3 near sensor 9/9/16 ,0935984,609090786,Reported,Comments,,200 berries counted,
+9/12/2016,Black Sears Site 3 near sensor 9/9/16 ,0935984,609090786,Reported,L-malic acid,,6.31,g/L
+9/12/2016,Black Sears Site 3 near sensor 9/9/16 ,0935984,609090786,Reported,brix,,20.4,degrees
+9/12/2016,Black Sears Site 3 near sensor 9/9/16 ,0935984,609090786,Reported,catechin,,29,mg/L
+9/12/2016,Black Sears Site 3 near sensor 9/9/16 ,0935984,609090786,Reported,catechin/tannin index,,0.132,
+9/12/2016,Black Sears Site 3 near sensor 9/9/16 ,0935984,609090786,Reported,glucose + fructose,,200,g/L
+9/12/2016,Black Sears Site 3 near sensor 9/9/16 ,0935984,609090786,Reported,berry weight,,2.48,g/berry
+9/12/2016,Black Sears Site 3 near sensor 9/9/16 ,0935984,609090786,Reported,polymeric anthocyanins,,8,mg/L
+9/12/2016,Black Sears Site 3 near sensor 9/9/16 ,0935984,609090786,Reported,polymeric anthocyanins/tannin index,,0.036,
+9/12/2016,Black Sears Site 3 near sensor 9/9/16 ,0935984,609090786,Reported,pH,,3.35,
+9/12/2016,Black Sears Site 3 near sensor 9/9/16 ,0935984,609090786,Reported,tannin,,220,mg/L
+9/12/2016,Black Sears Site 3 near sensor 9/9/16 ,0935984,609090786,Reported,quercetin glycosides,,20,mg/L
+9/12/2016,Black Sears Site 3 near sensor 9/9/16 ,0935984,609090786,Reported,sugar per berry,,0.506,g/berry
+9/12/2016,Black Sears Site 3 near sensor 9/9/16 ,0935984,609090786,Reported,titratable acidity,,10.7,g/L
+9/12/2016,Black Sears Site 3 near sensor 9/9/16 ,0935984,609090786,Reported,total anthocyanins,,552,mg/L
+9/12/2016,Black Sears Site 4 9/9/16 ,0935984,609090787,Reported,Comments,,200 berries counted,
+9/12/2016,Black Sears Site 4 9/9/16 ,0935984,609090787,Reported,L-malic acid,,4.13,g/L
+9/12/2016,Black Sears Site 4 9/9/16 ,0935984,609090787,Reported,brix,,23.6,degrees
+9/12/2016,Black Sears Site 4 9/9/16 ,0935984,609090787,Reported,catechin,,27,mg/L
+9/12/2016,Black Sears Site 4 9/9/16 ,0935984,609090787,Reported,catechin/tannin index,,0.079,
+9/12/2016,Black Sears Site 4 9/9/16 ,0935984,609090787,Reported,glucose + fructose,,244,g/L
+9/12/2016,Black Sears Site 4 9/9/16 ,0935984,609090787,Reported,berry weight,,2.55,g/berry
+9/12/2016,Black Sears Site 4 9/9/16 ,0935984,609090787,Reported,polymeric anthocyanins,,13,mg/L
+9/12/2016,Black Sears Site 4 9/9/16 ,0935984,609090787,Reported,polymeric anthocyanins/tannin index,,0.038,
+9/12/2016,Black Sears Site 4 9/9/16 ,0935984,609090787,Reported,pH,,3.54,
+9/12/2016,Black Sears Site 4 9/9/16 ,0935984,609090787,Reported,tannin,,340,mg/L
+9/12/2016,Black Sears Site 4 9/9/16 ,0935984,609090787,Reported,quercetin glycosides,,44,mg/L
+9/12/2016,Black Sears Site 4 9/9/16 ,0935984,609090787,Reported,sugar per berry,,0.602,g/berry
+9/12/2016,Black Sears Site 4 9/9/16 ,0935984,609090787,Reported,titratable acidity,,7.5,g/L
+9/12/2016,Black Sears Site 4 9/9/16 ,0935984,609090787,Reported,total anthocyanins,,826,mg/L
+9/12/2016,Black Sears Site 4 near sensor 9/9/16 ,0935984,609090788,Reported,Comments,,200 berries counted,
+9/12/2016,Black Sears Site 4 near sensor 9/9/16 ,0935984,609090788,Reported,L-malic acid,,4.17,g/L
+9/12/2016,Black Sears Site 4 near sensor 9/9/16 ,0935984,609090788,Reported,brix,,23.4,degrees
+9/12/2016,Black Sears Site 4 near sensor 9/9/16 ,0935984,609090788,Reported,catechin,,30,mg/L
+9/12/2016,Black Sears Site 4 near sensor 9/9/16 ,0935984,609090788,Reported,catechin/tannin index,,0.096,
+9/12/2016,Black Sears Site 4 near sensor 9/9/16 ,0935984,609090788,Reported,glucose + fructose,,243,g/L
+9/12/2016,Black Sears Site 4 near sensor 9/9/16 ,0935984,609090788,Reported,berry weight,,2.42,g/berry
+9/12/2016,Black Sears Site 4 near sensor 9/9/16 ,0935984,609090788,Reported,polymeric anthocyanins,,11,mg/L
+9/12/2016,Black Sears Site 4 near sensor 9/9/16 ,0935984,609090788,Reported,polymeric anthocyanins/tannin index,,0.035,
+9/12/2016,Black Sears Site 4 near sensor 9/9/16 ,0935984,609090788,Reported,pH,,3.66,
+9/12/2016,Black Sears Site 4 near sensor 9/9/16 ,0935984,609090788,Reported,tannin,,313,mg/L
+9/12/2016,Black Sears Site 4 near sensor 9/9/16 ,0935984,609090788,Reported,quercetin glycosides,,21,mg/L
+9/12/2016,Black Sears Site 4 near sensor 9/9/16 ,0935984,609090788,Reported,sugar per berry,,0.566,g/berry
+9/12/2016,Black Sears Site 4 near sensor 9/9/16 ,0935984,609090788,Reported,titratable acidity,,6.5,g/L
+9/12/2016,Black Sears Site 4 near sensor 9/9/16 ,0935984,609090788,Reported,total anthocyanins,,683,mg/L
+9/9/2016,Tres Sabores Berries,0935687H,609090089,Reported,catechin,,9,mg/L
+9/9/2016,Tres Sabores Berries,0935687H,609090089,Reported,catechin/tannin index,,0.020,
+9/9/2016,Tres Sabores Berries,0935687H,609090089,Reported,polymeric anthocyanins,,16,mg/L
+9/9/2016,Tres Sabores Berries,0935687H,609090089,Reported,polymeric anthocyanins/tannin index,,0.035,
+9/9/2016,Tres Sabores Berries,0935687H,609090089,Reported,tannin,,457,mg/L
+9/9/2016,Tres Sabores Berries,0935687H,609090089,Reported,quercetin glycosides,,39,mg/L
+9/9/2016,Tres Sabores Berries,0935687H,609090089,Reported,total anthocyanins,,960,mg/L
+9/9/2016,Tres Sabores Berries,0935686H,609090088,Reported,L-malic acid,,4.06,g/L
+9/9/2016,Tres Sabores Berries,0935686H,609090088,Reported,tartaric acid,,4.6,g/L
+9/9/2016,Tres Sabores Berries,0935686H,609090088,Reported,brix,,22.3,degrees
+9/9/2016,Tres Sabores Berries,0935686H,609090088,Reported,glucose + fructose,,226,g/L
+9/9/2016,Tres Sabores Berries,0935686H,609090088,Reported,potassium,,2030,mg/L
+9/9/2016,Tres Sabores Berries,0935686H,609090088,Reported,ammonia,,79,mg/L
+9/9/2016,Tres Sabores Berries,0935686H,609090088,Reported,alpha-amino compounds (as N),,136,mg/L
+9/9/2016,Tres Sabores Berries,0935686H,609090088,Reported,pH,,3.64,
+9/9/2016,Tres Sabores Berries,0935686H,609090088,Reported,titratable acidity,,6.3,g/L
+9/9/2016,Tres Sabores Berries,0935686H,609090088,Reported,yeast assimilable nitrogen,,201,mg/L (as N)
+9/8/2016,"Young Primitivo, Random",0934398,609070683,Reported,catechin,,9,mg/L
+9/8/2016,"Young Primitivo, Random",0934398,609070683,Reported,catechin/tannin index,,0.036,
+9/8/2016,"Young Primitivo, Random",0934398,609070683,Reported,polymeric anthocyanins,,10,mg/L
+9/8/2016,"Young Primitivo, Random",0934398,609070683,Reported,polymeric anthocyanins/tannin index,,0.040,
+9/8/2016,"Young Primitivo, Random",0934398,609070683,Reported,tannin,,253,mg/L
+9/8/2016,"Young Primitivo, Random",0934398,609070683,Reported,quercetin glycosides,,22,mg/L
+9/8/2016,"Young Primitivo, Random",0934398,609070683,Reported,total anthocyanins,,1032,mg/L
+9/8/2016,"Young Primitivo, Sensor",0934398,609070684,Reported,catechin,,7,mg/L
+9/8/2016,"Young Primitivo, Sensor",0934398,609070684,Reported,catechin/tannin index,,0.030,
+9/8/2016,"Young Primitivo, Sensor",0934398,609070684,Reported,polymeric anthocyanins,,8,mg/L
+9/8/2016,"Young Primitivo, Sensor",0934398,609070684,Reported,polymeric anthocyanins/tannin index,,0.034,
+9/8/2016,"Young Primitivo, Sensor",0934398,609070684,Reported,tannin,,233,mg/L
+9/8/2016,"Young Primitivo, Sensor",0934398,609070684,Reported,quercetin glycosides,,26,mg/L
+9/8/2016,"Young Primitivo, Sensor",0934398,609070684,Reported,total anthocyanins,,1008,mg/L
+9/7/2016,"Young Primitivo, Random",0934397,609070681,Reported,Comments,,215 berries,
+9/7/2016,"Young Primitivo, Random",0934397,609070681,Reported,L-malic acid,,4.75,g/L
+9/7/2016,"Young Primitivo, Random",0934397,609070681,Reported,brix,,24.3,degrees
+9/7/2016,"Young Primitivo, Random",0934397,609070681,Reported,glucose + fructose,,253,g/L
+9/7/2016,"Young Primitivo, Random",0934397,609070681,Reported,berry weight,,2.23,g/berry
+9/7/2016,"Young Primitivo, Random",0934397,609070681,Reported,pH,,3.17,
+9/7/2016,"Young Primitivo, Random",0934397,609070681,Reported,sugar per berry,,0.542,g/berry
+9/7/2016,"Young Primitivo, Random",0934397,609070681,Reported,titratable acidity,,10.3,g/L
+9/7/2016,"Young Primitivo, Sensor",0934397,609070682,Reported,Comments,,215 berries,
+9/7/2016,"Young Primitivo, Sensor",0934397,609070682,Reported,L-malic acid,,5.86,g/L
+9/7/2016,"Young Primitivo, Sensor",0934397,609070682,Reported,brix,,25.7,degrees
+9/7/2016,"Young Primitivo, Sensor",0934397,609070682,Reported,glucose + fructose,,265,g/L
+9/7/2016,"Young Primitivo, Sensor",0934397,609070682,Reported,berry weight,,2.47,g/berry
+9/7/2016,"Young Primitivo, Sensor",0934397,609070682,Reported,pH,,3.18,
+9/7/2016,"Young Primitivo, Sensor",0934397,609070682,Reported,sugar per berry,,0.635,g/berry
+9/7/2016,"Young Primitivo, Sensor",0934397,609070682,Reported,titratable acidity,,12.0,g/L
+8/26/2016,1A Site,0927844,608250673,Reported,L-malic acid,,2.49,g/L
+8/26/2016,1A Site,0927844,608250673,Reported,brix,,21.4,degrees
+8/26/2016,1A Site,0927844,608250673,Reported,catechin,,27,mg/L
+8/26/2016,1A Site,0927844,608250673,Reported,catechin/tannin index,,0.122,
+8/26/2016,1A Site,0927844,608250673,Reported,glucose + fructose,,218,g/L
+8/26/2016,1A Site,0927844,608250673,Reported,berry weight,,1.04,g/berry
+8/26/2016,1A Site,0927844,608250673,Reported,polymeric anthocyanins,,6,mg/L
+8/26/2016,1A Site,0927844,608250673,Reported,polymeric anthocyanins/tannin index,,0.027,
+8/26/2016,1A Site,0927844,608250673,Reported,pH,,3.23,
+8/26/2016,1A Site,0927844,608250673,Reported,tannin,,221,mg/L
+8/26/2016,1A Site,0927844,608250673,Reported,quercetin glycosides,,75,mg/L
+8/26/2016,1A Site,0927844,608250673,Reported,sugar per berry,,0.223,g/berry
+8/26/2016,1A Site,0927844,608250673,Reported,titratable acidity,,8.2,g/L
+8/26/2016,1A Site,0927844,608250673,Reported,total anthocyanins,,1000,mg/L
+8/26/2016,1B,0927844,608250674,Reported,L-malic acid,,4.19,g/L
+8/26/2016,1B,0927844,608250674,Reported,brix,,19.8,degrees
+8/26/2016,1B,0927844,608250674,Reported,catechin,,54,mg/L
+8/26/2016,1B,0927844,608250674,Reported,catechin/tannin index,,0.365,
+8/26/2016,1B,0927844,608250674,Reported,glucose + fructose,,195,g/L
+8/26/2016,1B,0927844,608250674,Reported,berry weight,,1.33,g/berry
+8/26/2016,1B,0927844,608250674,Reported,polymeric anthocyanins,,4,mg/L
+8/26/2016,1B,0927844,608250674,Reported,polymeric anthocyanins/tannin index,,0.027,
+8/26/2016,1B,0927844,608250674,Reported,pH,,3.25,
+8/26/2016,1B,0927844,608250674,Reported,tannin,,148,mg/L
+8/26/2016,1B,0927844,608250674,Reported,quercetin glycosides,,42,mg/L
+8/26/2016,1B,0927844,608250674,Reported,sugar per berry,,0.263,g/berry
+8/26/2016,1B,0927844,608250674,Reported,titratable acidity,,9.5,g/L
+8/26/2016,1B,0927844,608250674,Reported,total anthocyanins,,622,mg/L
+8/26/2016,2A Site,0927844,608250675,Reported,L-malic acid,,7.56,g/L
+8/26/2016,2A Site,0927844,608250675,Reported,brix,,18.7,degrees
+8/26/2016,2A Site,0927844,608250675,Reported,catechin,,38,mg/L
+8/26/2016,2A Site,0927844,608250675,Reported,catechin/tannin index,,0.207,
+8/26/2016,2A Site,0927844,608250675,Reported,glucose + fructose,,186,g/L
+8/26/2016,2A Site,0927844,608250675,Reported,berry weight,,2.61,g/berry
+8/26/2016,2A Site,0927844,608250675,Reported,polymeric anthocyanins,,4,mg/L
+8/26/2016,2A Site,0927844,608250675,Reported,polymeric anthocyanins/tannin index,,0.022,
+8/26/2016,2A Site,0927844,608250675,Reported,pH,,3.28,
+8/26/2016,2A Site,0927844,608250675,Reported,tannin,,184,mg/L
+8/26/2016,2A Site,0927844,608250675,Reported,quercetin glycosides,,20,mg/L
+8/26/2016,2A Site,0927844,608250675,Reported,sugar per berry,,0.488,g/berry
+8/26/2016,2A Site,0927844,608250675,Reported,titratable acidity,,11.5,g/L
+8/26/2016,2A Site,0927844,608250675,Reported,total anthocyanins,,380,mg/L
+8/26/2016,2B,0927844,608250676,Reported,L-malic acid,,6.72,g/L
+8/26/2016,2B,0927844,608250676,Reported,brix,,19.1,degrees
+8/26/2016,2B,0927844,608250676,Reported,catechin,,27,mg/L
+8/26/2016,2B,0927844,608250676,Reported,catechin/tannin index,,0.141,
+8/26/2016,2B,0927844,608250676,Reported,glucose + fructose,,183,g/L
+8/26/2016,2B,0927844,608250676,Reported,berry weight,,2.89,g/berry
+8/26/2016,2B,0927844,608250676,Reported,polymeric anthocyanins,,4,mg/L
+8/26/2016,2B,0927844,608250676,Reported,polymeric anthocyanins/tannin index,,0.021,
+8/26/2016,2B,0927844,608250676,Reported,pH,,3.36,
+8/26/2016,2B,0927844,608250676,Reported,tannin,,191,mg/L
+8/26/2016,2B,0927844,608250676,Reported,quercetin glycosides,,24,mg/L
+8/26/2016,2B,0927844,608250676,Reported,sugar per berry,,0.552,g/berry
+8/26/2016,2B,0927844,608250676,Reported,titratable acidity,,10.3,g/L
+8/26/2016,2B,0927844,608250676,Reported,total anthocyanins,,409,mg/L
+8/26/2016,3A Site,0927844,608250677,Reported,L-malic acid,,5.67,g/L
+8/26/2016,3A Site,0927844,608250677,Reported,brix,,20.9,degrees
+8/26/2016,3A Site,0927844,608250677,Reported,catechin,,16,mg/L
+8/26/2016,3A Site,0927844,608250677,Reported,catechin/tannin index,,0.066,
+8/26/2016,3A Site,0927844,608250677,Reported,glucose + fructose,,207,g/L
+8/26/2016,3A Site,0927844,608250677,Reported,berry weight,,1.86,g/berry
+8/26/2016,3A Site,0927844,608250677,Reported,polymeric anthocyanins,,5,mg/L
+8/26/2016,3A Site,0927844,608250677,Reported,polymeric anthocyanins/tannin index,,0.020,
+8/26/2016,3A Site,0927844,608250677,Reported,pH,,3.29,
+8/26/2016,3A Site,0927844,608250677,Reported,tannin,,244,mg/L
+8/26/2016,3A Site,0927844,608250677,Reported,quercetin glycosides,,39,mg/L
+8/26/2016,3A Site,0927844,608250677,Reported,sugar per berry,,0.389,g/berry
+8/26/2016,3A Site,0927844,608250677,Reported,titratable acidity,,9.8,g/L
+8/26/2016,3A Site,0927844,608250677,Reported,total anthocyanins,,655,mg/L
+8/26/2016,3B,0927844,608250678,Reported,L-malic acid,,5.20,g/L
+8/26/2016,3B,0927844,608250678,Reported,brix,,19.7,degrees
+8/26/2016,3B,0927844,608250678,Reported,catechin,,15,mg/L
+8/26/2016,3B,0927844,608250678,Reported,catechin/tannin index,,0.059,
+8/26/2016,3B,0927844,608250678,Reported,glucose + fructose,,194,g/L
+8/26/2016,3B,0927844,608250678,Reported,berry weight,,2.42,g/berry
+8/26/2016,3B,0927844,608250678,Reported,polymeric anthocyanins,,5,mg/L
+8/26/2016,3B,0927844,608250678,Reported,polymeric anthocyanins/tannin index,,0.020,
+8/26/2016,3B,0927844,608250678,Reported,pH,,3.35,
+8/26/2016,3B,0927844,608250678,Reported,tannin,,254,mg/L
+8/26/2016,3B,0927844,608250678,Reported,quercetin glycosides,,29,mg/L
+8/26/2016,3B,0927844,608250678,Reported,sugar per berry,,0.477,g/berry
+8/26/2016,3B,0927844,608250678,Reported,titratable acidity,,9.1,g/L
+8/26/2016,3B,0927844,608250678,Reported,total anthocyanins,,399,mg/L
+8/26/2016,4A Site,0927844,608250679,Reported,L-malic acid,,4.24,g/L
+8/26/2016,4A Site,0927844,608250679,Reported,brix,,20.2,degrees
+8/26/2016,4A Site,0927844,608250679,Reported,catechin,,57,mg/L
+8/26/2016,4A Site,0927844,608250679,Reported,catechin/tannin index,,0.260,
+8/26/2016,4A Site,0927844,608250679,Reported,glucose + fructose,,202,g/L
+8/26/2016,4A Site,0927844,608250679,Reported,berry weight,,1.28,g/berry
+8/26/2016,4A Site,0927844,608250679,Reported,polymeric anthocyanins,,5,mg/L
+8/26/2016,4A Site,0927844,608250679,Reported,polymeric anthocyanins/tannin index,,0.023,
+8/26/2016,4A Site,0927844,608250679,Reported,pH,,3.30,
+8/26/2016,4A Site,0927844,608250679,Reported,tannin,,219,mg/L
+8/26/2016,4A Site,0927844,608250679,Reported,quercetin glycosides,,47,mg/L
+8/26/2016,4A Site,0927844,608250679,Reported,sugar per berry,,0.259,g/berry
+8/26/2016,4A Site,0927844,608250679,Reported,titratable acidity,,8.8,g/L
+8/26/2016,4A Site,0927844,608250679,Reported,total anthocyanins,,822,mg/L
+8/26/2016,4B,0927844,608250680,Reported,L-malic acid,,5.06,g/L
+8/26/2016,4B,0927844,608250680,Reported,brix,,18.6,degrees
+8/26/2016,4B,0927844,608250680,Reported,catechin,,68,mg/L
+8/26/2016,4B,0927844,608250680,Reported,catechin/tannin index,,0.386,
+8/26/2016,4B,0927844,608250680,Reported,glucose + fructose,,186,g/L
+8/26/2016,4B,0927844,608250680,Reported,berry weight,,1.69,g/berry
+8/26/2016,4B,0927844,608250680,Reported,polymeric anthocyanins,,4,mg/L
+8/26/2016,4B,0927844,608250680,Reported,polymeric anthocyanins/tannin index,,0.023,
+8/26/2016,4B,0927844,608250680,Reported,pH,,3.20,
+8/26/2016,4B,0927844,608250680,Reported,tannin,,176,mg/L
+8/26/2016,4B,0927844,608250680,Reported,quercetin glycosides,,38,mg/L
+8/26/2016,4B,0927844,608250680,Reported,sugar per berry,,0.314,g/berry
+8/26/2016,4B,0927844,608250680,Reported,titratable acidity,,10.3,g/L
+8/26/2016,4B,0927844,608250680,Reported,total anthocyanins,,519,mg/L
+8/17/2016,Random Sample: Aldo's Zin Block 3,0923891,608160372,Reported,catechin,,13,mg/L
+8/17/2016,Random Sample: Aldo's Zin Block 3,0923891,608160372,Reported,catechin/tannin index,,0.051,
+8/17/2016,Random Sample: Aldo's Zin Block 3,0923891,608160372,Reported,polymeric anthocyanins,,4,mg/L
+8/17/2016,Random Sample: Aldo's Zin Block 3,0923891,608160372,Reported,polymeric anthocyanins/tannin index,,0.016,
+8/17/2016,Random Sample: Aldo's Zin Block 3,0923891,608160372,Reported,tannin,,254,mg/L
+8/17/2016,Random Sample: Aldo's Zin Block 3,0923891,608160372,Reported,quercetin glycosides,,44,mg/L
+8/17/2016,Random Sample: Aldo's Zin Block 3,0923891,608160372,Reported,total anthocyanins,,516,mg/L
+8/17/2016,Sensor Sample: Aldo's Zin Block 3,0923891,608160373,Reported,catechin,,22,mg/L
+8/17/2016,Sensor Sample: Aldo's Zin Block 3,0923891,608160373,Reported,catechin/tannin index,,0.088,
+8/17/2016,Sensor Sample: Aldo's Zin Block 3,0923891,608160373,Reported,polymeric anthocyanins,,5,mg/L
+8/17/2016,Sensor Sample: Aldo's Zin Block 3,0923891,608160373,Reported,polymeric anthocyanins/tannin index,,0.020,
+8/17/2016,Sensor Sample: Aldo's Zin Block 3,0923891,608160373,Reported,tannin,,249,mg/L
+8/17/2016,Sensor Sample: Aldo's Zin Block 3,0923891,608160373,Reported,quercetin glycosides,,22,mg/L
+8/17/2016,Sensor Sample: Aldo's Zin Block 3,0923891,608160373,Reported,total anthocyanins,,623,mg/L
+8/16/2016,Random Sample: Aldo's Zin Block 3,0923889,608160369,Reported,Comments,,120 berries,
+8/16/2016,Random Sample: Aldo's Zin Block 3,0923889,608160369,Reported,L-malic acid,,8.39,g/L
+8/16/2016,Random Sample: Aldo's Zin Block 3,0923889,608160369,Reported,brix,,17.1,degrees
+8/16/2016,Random Sample: Aldo's Zin Block 3,0923889,608160369,Reported,glucose + fructose,,167,g/L
+8/16/2016,Random Sample: Aldo's Zin Block 3,0923889,608160369,Reported,berry weight,,2.49,g/berry
+8/16/2016,Random Sample: Aldo's Zin Block 3,0923889,608160369,Reported,pH,,2.87,
+8/16/2016,Random Sample: Aldo's Zin Block 3,0923889,608160369,Reported,sugar per berry,,0.426,g/berry
+8/16/2016,Random Sample: Aldo's Zin Block 3,0923889,608160369,Reported,titratable acidity,,14.5,g/L
+8/16/2016,Sensor Sample: Aldo's Zin Block 3,0923889,608160370,Reported,Comments,,118 berries,
+8/16/2016,Sensor Sample: Aldo's Zin Block 3,0923889,608160370,Reported,L-malic acid,,5.82,g/L
+8/16/2016,Sensor Sample: Aldo's Zin Block 3,0923889,608160370,Reported,brix,,19.6,degrees
+8/16/2016,Sensor Sample: Aldo's Zin Block 3,0923889,608160370,Reported,glucose + fructose,,191,g/L
+8/16/2016,Sensor Sample: Aldo's Zin Block 3,0923889,608160370,Reported,berry weight,,2.55,g/berry
+8/16/2016,Sensor Sample: Aldo's Zin Block 3,0923889,608160370,Reported,pH,,3.00,
+8/16/2016,Sensor Sample: Aldo's Zin Block 3,0923889,608160370,Reported,sugar per berry,,0.500,g/berry
+8/16/2016,Sensor Sample: Aldo's Zin Block 3,0923889,608160370,Reported,titratable acidity,,12.0,g/L
+8/16/2016,Random Sample: Aldo's BC3,0923460,608150378,Reported,catechin,,24,mg/L
+8/16/2016,Random Sample: Aldo's BC3,0923460,608150378,Reported,catechin/tannin index,,0.092,
+8/16/2016,Random Sample: Aldo's BC3,0923460,608150378,Reported,polymeric anthocyanins,,4,mg/L
+8/16/2016,Random Sample: Aldo's BC3,0923460,608150378,Reported,polymeric anthocyanins/tannin index,,0.015,
+8/16/2016,Random Sample: Aldo's BC3,0923460,608150378,Reported,tannin,,260,mg/L
+8/16/2016,Random Sample: Aldo's BC3,0923460,608150378,Reported,quercetin glycosides,,39,mg/L
+8/16/2016,Random Sample: Aldo's BC3,0923460,608150378,Reported,total anthocyanins,,573,mg/L
+8/15/2016,Random Sample: Aldo's BC3,0923459,608150377,Reported,Comments,,120 berries,
+8/15/2016,Random Sample: Aldo's BC3,0923459,608150377,Reported,L-malic acid,,5.82,g/L
+8/15/2016,Random Sample: Aldo's BC3,0923459,608150377,Reported,brix,,18.2,degrees
+8/15/2016,Random Sample: Aldo's BC3,0923459,608150377,Reported,glucose + fructose,,182,g/L
+8/15/2016,Random Sample: Aldo's BC3,0923459,608150377,Reported,berry weight,,2.49,g/berry
+8/15/2016,Random Sample: Aldo's BC3,0923459,608150377,Reported,pH,,2.99,
+8/15/2016,Random Sample: Aldo's BC3,0923459,608150377,Reported,sugar per berry,,0.453,g/berry
+8/15/2016,Random Sample: Aldo's BC3,0923459,608150377,Reported,titratable acidity,,11.5,g/L
+8/13/2016,BR Short bb009- Random,0923048,608120694,Reported,catechin,,36,mg/L
+8/13/2016,BR Short bb009- Random,0923048,608120694,Reported,catechin/tannin index,,0.205,
+8/13/2016,BR Short bb009- Random,0923048,608120694,Reported,polymeric anthocyanins,,4,mg/L
+8/13/2016,BR Short bb009- Random,0923048,608120694,Reported,polymeric anthocyanins/tannin index,,0.023,
+8/13/2016,BR Short bb009- Random,0923048,608120694,Reported,tannin,,176,mg/L
+8/13/2016,BR Short bb009- Random,0923048,608120694,Reported,quercetin glycosides,,29,mg/L
+8/13/2016,BR Short bb009- Random,0923048,608120694,Reported,total anthocyanins,,440,mg/L
+8/13/2016,BR Short bb009- Sensor,0923048,608120695,Reported,catechin,,45,mg/L
+8/13/2016,BR Short bb009- Sensor,0923048,608120695,Reported,catechin/tannin index,,0.159,
+8/13/2016,BR Short bb009- Sensor,0923048,608120695,Reported,polymeric anthocyanins,,3,mg/L
+8/13/2016,BR Short bb009- Sensor,0923048,608120695,Reported,polymeric anthocyanins/tannin index,,0.011,
+8/13/2016,BR Short bb009- Sensor,0923048,608120695,Reported,tannin,,283,mg/L
+8/13/2016,BR Short bb009- Sensor,0923048,608120695,Reported,quercetin glycosides,,28,mg/L
+8/13/2016,BR Short bb009- Sensor,0923048,608120695,Reported,total anthocyanins,,348,mg/L
+8/13/2016,BR Long bb001- Random,0923048,608120696,Reported,catechin,,56,mg/L
+8/13/2016,BR Long bb001- Random,0923048,608120696,Reported,catechin/tannin index,,0.197,
+8/13/2016,BR Long bb001- Random,0923048,608120696,Reported,polymeric anthocyanins,,3,mg/L
+8/13/2016,BR Long bb001- Random,0923048,608120696,Reported,polymeric anthocyanins/tannin index,,0.011,
+8/13/2016,BR Long bb001- Random,0923048,608120696,Reported,tannin,,284,mg/L
+8/13/2016,BR Long bb001- Random,0923048,608120696,Reported,quercetin glycosides,,29,mg/L
+8/13/2016,BR Long bb001- Random,0923048,608120696,Reported,total anthocyanins,,425,mg/L
+8/13/2016,BR Long bb001 Sensor,0923048,608120697,Reported,catechin,,28,mg/L
+8/13/2016,BR Long bb001 Sensor,0923048,608120697,Reported,catechin/tannin index,,0.140,
+8/13/2016,BR Long bb001 Sensor,0923048,608120697,Reported,polymeric anthocyanins,,3,mg/L
+8/13/2016,BR Long bb001 Sensor,0923048,608120697,Reported,polymeric anthocyanins/tannin index,,0.015,
+8/13/2016,BR Long bb001 Sensor,0923048,608120697,Reported,tannin,,200,mg/L
+8/13/2016,BR Long bb001 Sensor,0923048,608120697,Reported,quercetin glycosides,,13,mg/L
+8/13/2016,BR Long bb001 Sensor,0923048,608120697,Reported,total anthocyanins,,343,mg/L
+8/13/2016,BR Rossi bb002- Random,0923048,608120698,Reported,catechin,,30,mg/L
+8/13/2016,BR Rossi bb002- Random,0923048,608120698,Reported,catechin/tannin index,,0.138,
+8/13/2016,BR Rossi bb002- Random,0923048,608120698,Reported,polymeric anthocyanins,,3,mg/L
+8/13/2016,BR Rossi bb002- Random,0923048,608120698,Reported,polymeric anthocyanins/tannin index,,0.014,
+8/13/2016,BR Rossi bb002- Random,0923048,608120698,Reported,tannin,,217,mg/L
+8/13/2016,BR Rossi bb002- Random,0923048,608120698,Reported,quercetin glycosides,,14,mg/L
+8/13/2016,BR Rossi bb002- Random,0923048,608120698,Reported,total anthocyanins,,397,mg/L
+8/13/2016,BR Rossi bb002- Sensor,0923048,608120699,Reported,catechin,,11,mg/L
+8/13/2016,BR Rossi bb002- Sensor,0923048,608120699,Reported,catechin/tannin index,,0.079,
+8/13/2016,BR Rossi bb002- Sensor,0923048,608120699,Reported,polymeric anthocyanins,,4,mg/L
+8/13/2016,BR Rossi bb002- Sensor,0923048,608120699,Reported,polymeric anthocyanins/tannin index,,0.029,
+8/13/2016,BR Rossi bb002- Sensor,0923048,608120699,Reported,tannin,,139,mg/L
+8/13/2016,BR Rossi bb002- Sensor,0923048,608120699,Reported,quercetin glycosides,,19,mg/L
+8/13/2016,BR Rossi bb002- Sensor,0923048,608120699,Reported,total anthocyanins,,668,mg/L
+8/13/2016,BR Young Primitivo bb006- Random,0923048,608120700,Reported,catechin,,20,mg/L
+8/13/2016,BR Young Primitivo bb006- Random,0923048,608120700,Reported,catechin/tannin index,,0.120,
+8/13/2016,BR Young Primitivo bb006- Random,0923048,608120700,Reported,polymeric anthocyanins,,4,mg/L
+8/13/2016,BR Young Primitivo bb006- Random,0923048,608120700,Reported,polymeric anthocyanins/tannin index,,0.024,
+8/13/2016,BR Young Primitivo bb006- Random,0923048,608120700,Reported,tannin,,166,mg/L
+8/13/2016,BR Young Primitivo bb006- Random,0923048,608120700,Reported,quercetin glycosides,,14,mg/L
+8/13/2016,BR Young Primitivo bb006- Random,0923048,608120700,Reported,total anthocyanins,,613,mg/L
+8/13/2016,BR Young Primitivo bb006- Sensor,0923048,608120701,Reported,catechin,,10,mg/L
+8/13/2016,BR Young Primitivo bb006- Sensor,0923048,608120701,Reported,catechin/tannin index,,0.064,
+8/13/2016,BR Young Primitivo bb006- Sensor,0923048,608120701,Reported,polymeric anthocyanins,,4,mg/L
+8/13/2016,BR Young Primitivo bb006- Sensor,0923048,608120701,Reported,polymeric anthocyanins/tannin index,,0.026,
+8/13/2016,BR Young Primitivo bb006- Sensor,0923048,608120701,Reported,tannin,,156,mg/L
+8/13/2016,BR Young Primitivo bb006- Sensor,0923048,608120701,Reported,quercetin glycosides,,36,mg/L
+8/13/2016,BR Young Primitivo bb006- Sensor,0923048,608120701,Reported,total anthocyanins,,836,mg/L
+8/12/2016,BR Short bb009- Random,0923047,608120686,Reported,Comments,,115 berries ,
+8/12/2016,BR Short bb009- Random,0923047,608120686,Reported,L-malic acid,,5.10,g/L
+8/12/2016,BR Short bb009- Random,0923047,608120686,Reported,brix,,18.4,degrees
+8/12/2016,BR Short bb009- Random,0923047,608120686,Reported,glucose + fructose,,181,g/L
+8/12/2016,BR Short bb009- Random,0923047,608120686,Reported,berry weight,,1.72,g/berry
+8/12/2016,BR Short bb009- Random,0923047,608120686,Reported,pH,,3.12,
+8/12/2016,BR Short bb009- Random,0923047,608120686,Reported,sugar per berry,,0.316,g/berry
+8/12/2016,BR Short bb009- Random,0923047,608120686,Reported,titratable acidity,,10.3,g/L
+8/12/2016,BR Short bb009- Sensor,0923047,608120687,Reported,Comments,,115 berries,
+8/12/2016,BR Short bb009- Sensor,0923047,608120687,Reported,L-malic acid,,6.88,g/L
+8/12/2016,BR Short bb009- Sensor,0923047,608120687,Reported,brix,,17.7,degrees
+8/12/2016,BR Short bb009- Sensor,0923047,608120687,Reported,glucose + fructose,,174,g/L
+8/12/2016,BR Short bb009- Sensor,0923047,608120687,Reported,berry weight,,1.70,g/berry
+8/12/2016,BR Short bb009- Sensor,0923047,608120687,Reported,pH,,2.95,
+8/12/2016,BR Short bb009- Sensor,0923047,608120687,Reported,sugar per berry,,0.301,g/berry
+8/12/2016,BR Short bb009- Sensor,0923047,608120687,Reported,titratable acidity,,12.3,g/L
+8/12/2016,BR Long bb001- Random,0923047,608120688,Reported,Comments,,110 berries,
+8/12/2016,BR Long bb001- Random,0923047,608120688,Reported,L-malic acid,,6.27,g/L
+8/12/2016,BR Long bb001- Random,0923047,608120688,Reported,brix,,17.8,degrees
+8/12/2016,BR Long bb001- Random,0923047,608120688,Reported,glucose + fructose,,175,g/L
+8/12/2016,BR Long bb001- Random,0923047,608120688,Reported,berry weight,,1.78,g/berry
+8/12/2016,BR Long bb001- Random,0923047,608120688,Reported,pH,,3.14,
+8/12/2016,BR Long bb001- Random,0923047,608120688,Reported,sugar per berry,,0.317,g/berry
+8/12/2016,BR Long bb001- Random,0923047,608120688,Reported,titratable acidity,,11.2,g/L
+8/12/2016,BR Long bb001 Sensor,0923047,608120689,Reported,Comments,,83 berries,
+8/12/2016,BR Long bb001 Sensor,0923047,608120689,Reported,L-malic acid,,7.36,g/L
+8/12/2016,BR Long bb001 Sensor,0923047,608120689,Reported,brix,,17.7,degrees
+8/12/2016,BR Long bb001 Sensor,0923047,608120689,Reported,glucose + fructose,,174,g/L
+8/12/2016,BR Long bb001 Sensor,0923047,608120689,Reported,berry weight,,2.39,g/berry
+8/12/2016,BR Long bb001 Sensor,0923047,608120689,Reported,pH,,3.05,
+8/12/2016,BR Long bb001 Sensor,0923047,608120689,Reported,sugar per berry,,0.423,g/berry
+8/12/2016,BR Long bb001 Sensor,0923047,608120689,Reported,titratable acidity,,12.7,g/L
+8/12/2016,BR Rossi bb002- Random,0923047,608120690,Reported,Comments,,86 berries,
+8/12/2016,BR Rossi bb002- Random,0923047,608120690,Reported,L-malic acid,,7.25,g/L
+8/12/2016,BR Rossi bb002- Random,0923047,608120690,Reported,brix,,18.5,degrees
+8/12/2016,BR Rossi bb002- Random,0923047,608120690,Reported,glucose + fructose,,180,g/L
+8/12/2016,BR Rossi bb002- Random,0923047,608120690,Reported,berry weight,,2.27,g/berry
+8/12/2016,BR Rossi bb002- Random,0923047,608120690,Reported,pH,,3.06,
+8/12/2016,BR Rossi bb002- Random,0923047,608120690,Reported,sugar per berry,,0.420,g/berry
+8/12/2016,BR Rossi bb002- Random,0923047,608120690,Reported,titratable acidity,,12.8,g/L
+8/12/2016,BR Rossi bb002- Sensor,0923047,608120691,Reported,Comments,,165 berries,
+8/12/2016,BR Rossi bb002- Sensor,0923047,608120691,Reported,L-malic acid,,8.83,g/L
+8/12/2016,BR Rossi bb002- Sensor,0923047,608120691,Reported,brix,,20.8,degrees
+8/12/2016,BR Rossi bb002- Sensor,0923047,608120691,Reported,glucose + fructose,,204,g/L
+8/12/2016,BR Rossi bb002- Sensor,0923047,608120691,Reported,berry weight,,1.19,g/berry
+8/12/2016,BR Rossi bb002- Sensor,0923047,608120691,Reported,pH,,3.08,
+8/12/2016,BR Rossi bb002- Sensor,0923047,608120691,Reported,sugar per berry,,0.248,g/berry
+8/12/2016,BR Rossi bb002- Sensor,0923047,608120691,Reported,titratable acidity,,15.4,g/L
+8/12/2016,BR Young Primitivo bb006- Random,0923047,608120692,Reported,Comments,,83 berries,
+8/12/2016,BR Young Primitivo bb006- Random,0923047,608120692,Reported,L-malic acid,,7.31,g/L
+8/12/2016,BR Young Primitivo bb006- Random,0923047,608120692,Reported,brix,,21.1,degrees
+8/12/2016,BR Young Primitivo bb006- Random,0923047,608120692,Reported,glucose + fructose,,211,g/L
+8/12/2016,BR Young Primitivo bb006- Random,0923047,608120692,Reported,berry weight,,2.38,g/berry
+8/12/2016,BR Young Primitivo bb006- Random,0923047,608120692,Reported,pH,,3.01,
+8/12/2016,BR Young Primitivo bb006- Random,0923047,608120692,Reported,sugar per berry,,0.502,g/berry
+8/12/2016,BR Young Primitivo bb006- Random,0923047,608120692,Reported,titratable acidity,,13.6,g/L
+8/12/2016,BR Young Primitivo bb006- Sensor,0923047,608120693,Reported,Comments,,164 berries,
+8/12/2016,BR Young Primitivo bb006- Sensor,0923047,608120693,Reported,L-malic acid,,6.10,g/L
+8/12/2016,BR Young Primitivo bb006- Sensor,0923047,608120693,Reported,brix,,22.3,degrees
+8/12/2016,BR Young Primitivo bb006- Sensor,0923047,608120693,Reported,glucose + fructose,,226,g/L
+8/12/2016,BR Young Primitivo bb006- Sensor,0923047,608120693,Reported,berry weight,,1.20,g/berry
+8/12/2016,BR Young Primitivo bb006- Sensor,0923047,608120693,Reported,pH,,3.03,
+8/12/2016,BR Young Primitivo bb006- Sensor,0923047,608120693,Reported,sugar per berry,,0.268,g/berry
+8/12/2016,BR Young Primitivo bb006- Sensor,0923047,608120693,Reported,titratable acidity,,12.9,g/L
+8/5/2016,"Early Burgundy, Cluster",0921013,608050576,Reported,L-malic acid,,3.90,g/L
+8/5/2016,"Early Burgundy, Cluster",0921013,608050576,Reported,brix,,18.4,degrees
+8/5/2016,"Early Burgundy, Cluster",0921013,608050576,Reported,glucose + fructose,,188,g/L
+8/5/2016,"Early Burgundy, Cluster",0921013,608050576,Reported,berry weight,,1.93,g/berry
+8/5/2016,"Early Burgundy, Cluster",0921013,608050576,Reported,pH,,3.14,
+8/5/2016,"Early Burgundy, Cluster",0921013,608050576,Reported,sugar per berry,,0.355,g/berry
+8/5/2016,"Early Burgundy, Cluster",0921013,608050576,Reported,titratable acidity,,8.9,g/L
+8/5/2016,"Early Burgundy, Random",0921013,608050577,Reported,L-malic acid,,4.28,g/L
+8/5/2016,"Early Burgundy, Random",0921013,608050577,Reported,brix,,18.3,degrees
+8/5/2016,"Early Burgundy, Random",0921013,608050577,Reported,glucose + fructose,,185,g/L
+8/5/2016,"Early Burgundy, Random",0921013,608050577,Reported,berry weight,,2.03,g/berry
+8/5/2016,"Early Burgundy, Random",0921013,608050577,Reported,pH,,3.15,
+8/5/2016,"Early Burgundy, Random",0921013,608050577,Reported,sugar per berry,,0.371,g/berry
+8/5/2016,"Early Burgundy, Random",0921013,608050577,Reported,titratable acidity,,9.2,g/L
+8/5/2016,"Young Primitivo, Cluster Sample",0921013,608050578,Reported,L-malic acid,,10.66,g/L
+8/5/2016,"Young Primitivo, Cluster Sample",0921013,608050578,Reported,brix,,18.2,degrees
+8/5/2016,"Young Primitivo, Cluster Sample",0921013,608050578,Reported,glucose + fructose,,173,g/L
+8/5/2016,"Young Primitivo, Cluster Sample",0921013,608050578,Reported,berry weight,,1.84,g/berry
+8/5/2016,"Young Primitivo, Cluster Sample",0921013,608050578,Reported,pH,,2.87,
+8/5/2016,"Young Primitivo, Cluster Sample",0921013,608050578,Reported,sugar per berry,,0.335,g/berry
+8/5/2016,"Young Primitivo, Cluster Sample",0921013,608050578,Reported,titratable acidity,,18.4,g/L
+8/5/2016,"Young Primitivo, Random Samples",0921013,608050579,Reported,L-malic acid,,8.38,g/L
+8/5/2016,"Young Primitivo, Random Samples",0921013,608050579,Reported,brix,,17.9,degrees
+8/5/2016,"Young Primitivo, Random Samples",0921013,608050579,Reported,glucose + fructose,,175,g/L
+8/5/2016,"Young Primitivo, Random Samples",0921013,608050579,Reported,berry weight,,2.60,g/berry
+8/5/2016,"Young Primitivo, Random Samples",0921013,608050579,Reported,pH,,2.94,
+8/5/2016,"Young Primitivo, Random Samples",0921013,608050579,Reported,sugar per berry,,0.465,g/berry
+8/5/2016,"Young Primitivo, Random Samples",0921013,608050579,Reported,titratable acidity,,15.0,g/L
+8/8/2016,"Early Burgundy, Random",0920995,608050459,Reported,catechin,,91,mg/L
+8/8/2016,"Early Burgundy, Random",0920995,608050459,Reported,catechin/tannin index,,0.222,
+8/8/2016,"Early Burgundy, Random",0920995,608050459,Reported,polymeric anthocyanins,,7,mg/L
+8/8/2016,"Early Burgundy, Random",0920995,608050459,Reported,polymeric anthocyanins/tannin index,,0.017,
+8/8/2016,"Early Burgundy, Random",0920995,608050459,Reported,tannin,,410,mg/L
+8/8/2016,"Early Burgundy, Random",0920995,608050459,Reported,quercetin glycosides,,83,mg/L
+8/8/2016,"Early Burgundy, Random",0920995,608050459,Reported,total anthocyanins,,1010,mg/L
+8/8/2016,"Young Primitivo, Random",0920995,608050460,Reported,catechin,,112,mg/L
+8/8/2016,"Young Primitivo, Random",0920995,608050460,Reported,catechin/tannin index,,0.448,
+8/8/2016,"Young Primitivo, Random",0920995,608050460,Reported,polymeric anthocyanins,,4,mg/L
+8/8/2016,"Young Primitivo, Random",0920995,608050460,Reported,polymeric anthocyanins/tannin index,,0.016,
+8/8/2016,"Young Primitivo, Random",0920995,608050460,Reported,tannin,,250,mg/L
+8/8/2016,"Young Primitivo, Random",0920995,608050460,Reported,quercetin glycosides,,48,mg/L
+8/8/2016,"Young Primitivo, Random",0920995,608050460,Reported,total anthocyanins,,547,mg/L
+1/20/2016,15 ZIN3 PJ,0874943R,601191007,Reported,total sulfur dioxide,,63,mg/L
+1/20/2016,15 ZIN3 PJ,0874943R,601191007,Reported,total anthocyanins,,274,mg/L
+1/20/2016,15 ZIN3 PJ,0874943R,601191007,Reported,titratable acidity,,5.8,g/L
+1/20/2016,15 ZIN3 PJ,0874943R,601191007,Reported,tannin,,537,mg/L
+1/20/2016,15 ZIN3 PJ,0874943R,601191007,Reported,pH,,4.10,
+1/20/2016,15 ZIN3 PJ,0874943R,601191007,Reported,polymeric anthocyanins/tannin index,,0.061,
+1/20/2016,15 ZIN3 PJ,0874943R,601191007,Reported,polymeric anthocyanins,,33,mg/L
+1/20/2016,15 ZIN3 PJ,0874943R,601191007,Reported,molecular sulfur dioxide,,0.14,mg/L
+1/20/2016,15 ZIN3 PJ,0874943R,601191007,Reported,free sulfur dioxide,,27,mg/L
+1/20/2016,15 ZIN3 PJ,0874943R,601191007,Reported,catechin/tannin index,,<0.01,
+1/20/2016,15 ZIN3 PJ,0874943R,601191007,Reported,catechin,,2,mg/L
+1/20/2016,15 ZIN3 PJ,0874943R,601191007,Reported,volatile acidity(acetic),,0.62,g/L
+1/20/2016,15 ZIN3,0874943R,601191006,Reported,total sulfur dioxide,,57,mg/L
+1/20/2016,15 ZIN3,0874943R,601191006,Reported,total anthocyanins,,273,mg/L
+1/20/2016,15 ZIN3,0874943R,601191006,Reported,titratable acidity,,5.9,g/L
+1/20/2016,15 ZIN3,0874943R,601191006,Reported,tannin,,506,mg/L
+1/20/2016,15 ZIN3,0874943R,601191006,Reported,pH,,4.11,
+1/20/2016,15 ZIN3,0874943R,601191006,Reported,polymeric anthocyanins/tannin index,,0.069,
+1/20/2016,15 ZIN3,0874943R,601191006,Reported,polymeric anthocyanins,,35,mg/L
+1/20/2016,15 ZIN3,0874943R,601191006,Reported,molecular sulfur dioxide,,0.12,mg/L
+1/20/2016,15 ZIN3,0874943R,601191006,Reported,free sulfur dioxide,,25,mg/L
+1/20/2016,15 ZIN3,0874943R,601191006,Reported,catechin/tannin index,,<0.01,
+1/20/2016,15 ZIN3,0874943R,601191006,Reported,catechin,,2,mg/L
+1/20/2016,15 ZIN3,0874943R,601191006,Reported,volatile acidity(acetic),,0.59,g/L
+1/20/2016,15 ZIN1 PJ,0874943R,601191005,Reported,total sulfur dioxide,,57,mg/L
+1/20/2016,15 ZIN1 PJ,0874943R,601191005,Reported,total anthocyanins,,266,mg/L
+1/20/2016,15 ZIN1 PJ,0874943R,601191005,Reported,titratable acidity,,6.2,g/L
+1/20/2016,15 ZIN1 PJ,0874943R,601191005,Reported,tannin,,507,mg/L
+1/20/2016,15 ZIN1 PJ,0874943R,601191005,Reported,pH,,4.10,
+1/20/2016,15 ZIN1 PJ,0874943R,601191005,Reported,polymeric anthocyanins/tannin index,,0.063,
+1/20/2016,15 ZIN1 PJ,0874943R,601191005,Reported,polymeric anthocyanins,,32,mg/L
+1/20/2016,15 ZIN1 PJ,0874943R,601191005,Reported,molecular sulfur dioxide,,0.12,mg/L
+1/20/2016,15 ZIN1 PJ,0874943R,601191005,Reported,free sulfur dioxide,,23,mg/L
+1/20/2016,15 ZIN1 PJ,0874943R,601191005,Reported,catechin/tannin index,,<0.01,
+1/20/2016,15 ZIN1 PJ,0874943R,601191005,Reported,catechin,,1,mg/L
+1/20/2016,15 ZIN1 PJ,0874943R,601191005,Reported,volatile acidity(acetic),,0.72,g/L
+1/20/2016,15 ZIN1,0874943R,601191004,Reported,total sulfur dioxide,,55,mg/L
+1/20/2016,15 ZIN1,0874943R,601191004,Reported,total anthocyanins,,318,mg/L
+1/20/2016,15 ZIN1,0874943R,601191004,Reported,titratable acidity,,6.1,g/L
+1/20/2016,15 ZIN1,0874943R,601191004,Reported,tannin,,458,mg/L
+1/20/2016,15 ZIN1,0874943R,601191004,Reported,pH,,4.06,
+1/20/2016,15 ZIN1,0874943R,601191004,Reported,polymeric anthocyanins/tannin index,,0.066,
+1/20/2016,15 ZIN1,0874943R,601191004,Reported,polymeric anthocyanins,,30,mg/L
+1/20/2016,15 ZIN1,0874943R,601191004,Reported,molecular sulfur dioxide,,0.13,mg/L
+1/20/2016,15 ZIN1,0874943R,601191004,Reported,free sulfur dioxide,,23,mg/L
+1/20/2016,15 ZIN1,0874943R,601191004,Reported,catechin/tannin index,,<0.01,
+1/20/2016,15 ZIN1,0874943R,601191004,Reported,catechin,,2,mg/L
+1/20/2016,15 ZIN1,0874943R,601191004,Reported,volatile acidity(acetic),,0.75,g/L
+1/20/2016,15 VCS South,0874943R,601191003,Reported,total sulfur dioxide,,5,mg/L
+1/20/2016,15 VCS South,0874943R,601191003,Reported,total anthocyanins,,198,mg/L
+1/20/2016,15 VCS South,0874943R,601191003,Reported,titratable acidity,,6.6,g/L
+1/20/2016,15 VCS South,0874943R,601191003,Reported,tannin,,1124,mg/L
+1/20/2016,15 VCS South,0874943R,601191003,Reported,pH,,3.95,
+1/20/2016,15 VCS South,0874943R,601191003,Reported,polymeric anthocyanins/tannin index,,0.061,
+1/20/2016,15 VCS South,0874943R,601191003,Reported,polymeric anthocyanins,,69,mg/L
+1/20/2016,15 VCS South,0874943R,601191003,Reported,molecular sulfur dioxide,,<0.10,mg/L
+1/20/2016,15 VCS South,0874943R,601191003,Reported,free sulfur dioxide,,<2,mg/L
+1/20/2016,15 VCS South,0874943R,601191003,Reported,catechin/tannin index,,<0.01,
+1/20/2016,15 VCS South,0874943R,601191003,Reported,catechin,,3,mg/L
+1/20/2016,15 VCS South,0874943R,601191003,Reported,volatile acidity(acetic),,0.79,g/L
+1/20/2016,15 VCS Site,0874943R,601191002,Reported,total sulfur dioxide,,54,mg/L
+1/20/2016,15 VCS Site,0874943R,601191002,Reported,total anthocyanins,,287,mg/L
+1/20/2016,15 VCS Site,0874943R,601191002,Reported,titratable acidity,,7.2,g/L
+1/20/2016,15 VCS Site,0874943R,601191002,Reported,tannin,,853,mg/L
+1/20/2016,15 VCS Site,0874943R,601191002,Reported,pH,,3.87,
+1/20/2016,15 VCS Site,0874943R,601191002,Reported,polymeric anthocyanins/tannin index,,0.062,
+1/20/2016,15 VCS Site,0874943R,601191002,Reported,polymeric anthocyanins,,53,mg/L
+1/20/2016,15 VCS Site,0874943R,601191002,Reported,molecular sulfur dioxide,,0.22,mg/L
+1/20/2016,15 VCS Site,0874943R,601191002,Reported,free sulfur dioxide,,25,mg/L
+1/20/2016,15 VCS Site,0874943R,601191002,Reported,catechin/tannin index,,<0.01,
+1/20/2016,15 VCS Site,0874943R,601191002,Reported,catechin,,7,mg/L
+1/20/2016,15 VCS Site,0874943R,601191002,Reported,volatile acidity(acetic),,0.76,g/L
+1/20/2016,15 RPPY,0874943R,601191001,Reported,total sulfur dioxide,,69,mg/L
+1/20/2016,15 RPPY,0874943R,601191001,Reported,total anthocyanins,,272,mg/L
+1/20/2016,15 RPPY,0874943R,601191001,Reported,titratable acidity,,7.3,g/L
+1/20/2016,15 RPPY,0874943R,601191001,Reported,tannin,,833,mg/L
+1/20/2016,15 RPPY,0874943R,601191001,Reported,pH,,3.92,
+1/20/2016,15 RPPY,0874943R,601191001,Reported,polymeric anthocyanins/tannin index,,0.066,
+1/20/2016,15 RPPY,0874943R,601191001,Reported,polymeric anthocyanins,,55,mg/L
+1/20/2016,15 RPPY,0874943R,601191001,Reported,molecular sulfur dioxide,,0.21,mg/L
+1/20/2016,15 RPPY,0874943R,601191001,Reported,free sulfur dioxide,,27,mg/L
+1/20/2016,15 RPPY,0874943R,601191001,Reported,catechin/tannin index,,<0.01,
+1/20/2016,15 RPPY,0874943R,601191001,Reported,catechin,,6,mg/L
+1/20/2016,15 RPPY,0874943R,601191001,Reported,volatile acidity(acetic),,0.80,g/L
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,yeast assimilable nitrogen,,180,mg/L (as N)
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,total anthocyanins,,911,mg/L
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,titratable acidity,,5.9,g/L
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,sugar per berry,,0.246,g/berry
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,quercetin glycosides,,43,mg/L
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,tannin,,278,mg/L
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,pH,,3.72,
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,polymeric anthocyanins/tannin index,,0.054,
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,polymeric anthocyanins,,15,mg/L
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,alpha-amino compounds (as N),,94,mg/L
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,ammonia,,105,mg/L
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,berry weight,,1.00,g/berry
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,glucose + fructose,,267,g/L
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,catechin/tannin index,,0.180,
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,catechin,,50,mg/L
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,brix,,24.6,degrees
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,L-malic acid,,2.85,g/L
+9/17/2015,Tres Sabores: Cab North Site,0832045,509170728,Reported,Comments,,200 berries counted,
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,yeast assimilable nitrogen,,142,mg/L (as N)
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,total anthocyanins,,880,mg/L
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,titratable acidity,,6.0,g/L
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,sugar per berry,,0.248,g/berry
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,quercetin glycosides,,28,mg/L
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,tannin,,268,mg/L
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,pH,,3.59,
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,polymeric anthocyanins/tannin index,,0.060,
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,polymeric anthocyanins,,16,mg/L
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,alpha-amino compounds (as N),,71,mg/L
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,ammonia,,86,mg/L
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,berry weight,,0.99,g/berry
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,glucose + fructose,,274,g/L
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,catechin/tannin index,,0.164,
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,catechin,,44,mg/L
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,brix,,25.1,degrees
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,L-malic acid,,2.51,g/L
+9/17/2015,Tres Sabores: Cabernet (Viejo Cab),0832045,509170727,Reported,Comments,,200 berries counted,
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,yeast assimilable nitrogen,,197,mg/L (as N)
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,total anthocyanins,,670,mg/L
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,titratable acidity,,7.0,g/L
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,sugar per berry,,0.538,g/berry
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,quercetin glycosides,,13,mg/L
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,tannin,,354,mg/L
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,pH,,3.66,
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,polymeric anthocyanins/tannin index,,0.048,
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,polymeric anthocyanins,,17,mg/L
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,alpha-amino compounds (as N),,133,mg/L
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,ammonia,,78,mg/L
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,berry weight,,2.25,g/berry
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,glucose + fructose,,248,g/L
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,catechin/tannin index,,0.040,
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,catechin,,14,mg/L
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,brix,,23.9,degrees
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,L-malic acid,,4.56,g/L
+9/13/2015,Tres Sabores Upper ZIN ,0828854,509120874,Reported,Comments,,200 berries counted,
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,yeast assimilable nitrogen,,200,mg/L (as N)
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,total anthocyanins,,706,mg/L
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,titratable acidity,,6.8,g/L
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,sugar per berry,,0.514,g/berry
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,quercetin glycosides,,11,mg/L
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,tannin,,340,mg/L
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,pH,,3.71,
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,polymeric anthocyanins/tannin index,,0.047,
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,polymeric anthocyanins,,16,mg/L
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,alpha-amino compounds (as N),,126,mg/L
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,ammonia,,90,mg/L
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,berry weight,,2.15,g/berry
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,glucose + fructose,,250,g/L
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,catechin/tannin index,,0.041,
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,catechin,,14,mg/L
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,brix,,23.9,degrees
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,L-malic acid,,5.09,g/L
+9/13/2015,Tres Sabores Upper ZIN site,0828854,509120873,Reported,Comments,,200 berries counted,
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,yeast assimilable nitrogen,,147,mg/L (as N)
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,total anthocyanins,,1073,mg/L
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,titratable acidity,,6.4,g/L
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,sugar per berry,,0.358,g/berry
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,quercetin glycosides,,42,mg/L
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,tannin,,394,mg/L
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,pH,,3.59,
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,polymeric anthocyanins/tannin index,,0.046,
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,polymeric anthocyanins,,18,mg/L
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,alpha-amino compounds (as N),,106,mg/L
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,ammonia,,50,mg/L
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,berry weight,,1.48,g/berry
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,glucose + fructose,,258,g/L
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,catechin/tannin index,,1.400,
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,catechin,,<1,mg/L
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,brix,,24.2,degrees
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,L-malic acid,,3.00,g/L
+9/8/2015,Tres Zin Site SE,0825216,509070881,Reported,Comments,,200 berries counted,
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,yeast assimilable nitrogen,,202,mg/L (as N)
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,total anthocyanins,,734,mg/L
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,titratable acidity,,8.2,g/L
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,sugar per berry,,0.508,g/berry
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,quercetin glycosides,,19,mg/L
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,tannin,,317,mg/L
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,pH,,3.57,
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,polymeric anthocyanins/tannin index,,0.044,
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,polymeric anthocyanins,,14,mg/L
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,alpha-amino compounds (as N),,120,mg/L
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,ammonia,,100,mg/L
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,berry weight,,2.29,g/berry
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,glucose + fructose,,231,g/L
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,catechin/tannin index,,0.025,
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,catechin,,8,mg/L
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,brix,,22.2,degrees
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,L-malic acid,,5.22,g/L
+9/8/2015,Tres Zin Site NW,0825216,509070880,Reported,Comments,,200 berries counted,
+9/8/2015,Tres Zin General,0825216,509070879,Reported,yeast assimilable nitrogen,,193,mg/L (as N)
+9/8/2015,Tres Zin General,0825216,509070879,Reported,total anthocyanins,,637,mg/L
+9/8/2015,Tres Zin General,0825216,509070879,Reported,titratable acidity,,8.4,g/L
+9/8/2015,Tres Zin General,0825216,509070879,Reported,sugar per berry,,0.477,g/berry
+9/8/2015,Tres Zin General,0825216,509070879,Reported,quercetin glycosides,,18,mg/L
+9/8/2015,Tres Zin General,0825216,509070879,Reported,tannin,,318,mg/L
+9/8/2015,Tres Zin General,0825216,509070879,Reported,pH,,3.52,
+9/8/2015,Tres Zin General,0825216,509070879,Reported,polymeric anthocyanins/tannin index,,0.035,
+9/8/2015,Tres Zin General,0825216,509070879,Reported,polymeric anthocyanins,,11,mg/L
+9/8/2015,Tres Zin General,0825216,509070879,Reported,alpha-amino compounds (as N),,121,mg/L
+9/8/2015,Tres Zin General,0825216,509070879,Reported,ammonia,,87,mg/L
+9/8/2015,Tres Zin General,0825216,509070879,Reported,catechin/tannin index,,0.019,
+9/8/2015,Tres Zin General,0825216,509070879,Reported,catechin,,6,mg/L
+9/8/2015,Tres Zin General,0825216,509070879,Reported,brix,,22.4,degrees
+9/8/2015,Tres Zin General,0825216,509070879,Reported,L-malic acid,,5.30,g/L
+9/8/2015,Tres Zin General,0825216,509070879,Reported,Comments,,200 berries counted,
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,yeast assimilable nitrogen,,194,mg/L (as N)
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,total anthocyanins,,748,mg/L
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,titratable acidity,,6.3,g/L
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,sugar per berry,,0.410,g/berry
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,quercetin glycosides,,50,mg/L
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,tannin,,334,mg/L
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,pH,,3.70,
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,polymeric anthocyanins/tannin index,,0.042,
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,polymeric anthocyanins,,14,mg/L
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,alpha-amino compounds (as N),,132,mg/L
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,ammonia,,75,mg/L
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,berry weight,,1.71,g/berry
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,glucose + fructose,,254,g/L
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,catechin/tannin index,,N/A,
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,catechin,,<1,mg/L
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,brix,,24.0,degrees
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,L-malic acid,,3.35,g/L
+9/8/2015,Tres Zin 1,0825216,509070878,Reported,Comments,,200 berries counted,
+9/8/2015,Tres Zin General,0825216,509070879,Reported,berry weight,,2.13,g/berry
+9/8/2015,Tres Zin General,0825216,509070879,Reported,glucose + fructose,,232,g/L
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,yeast assimilable nitrogen,,174,mg/L (as N)
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,total anthocyanins,,749,mg/L
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,titratable acidity,,8.6,g/L
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,sugar per berry,,0.494,g/berry
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,quercetin glycosides,,21,mg/L
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,tannin,,386,mg/L
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,pH,,3.25,
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,polymeric anthocyanins/tannin index,,0.028,
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,polymeric anthocyanins,,11,mg/L
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,alpha-amino compounds (as N),,97,mg/L
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,ammonia,,94,mg/L
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,berry weight,,2.14,g/berry
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,glucose + fructose,,248,g/L
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,catechin/tannin index,,0.036,
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,catechin,,14,mg/L
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,brix,,23.1,degrees
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,L-malic acid,,3.70,g/L
+9/3/2015,Ebert Biale Aldo Sensor 2/3,0822823,509030081,Reported,Comments,,200 berries counted,
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,yeast assimilable nitrogen,,156,mg/L (as N)
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,total anthocyanins,,658,mg/L
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,titratable acidity,,7.9,g/L
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,sugar per berry,,0.550,g/berry
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,quercetin glycosides,,25,mg/L
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,tannin,,405,mg/L
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,pH,,3.32,
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,polymeric anthocyanins/tannin index,,0.025,
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,polymeric anthocyanins,,10,mg/L
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,alpha-amino compounds (as N),,93,mg/L
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,ammonia,,77,mg/L
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,berry weight,,2.33,g/berry
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,glucose + fructose,,254,g/L
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,catechin/tannin index,,0.025,
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,catechin,,10,mg/L
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,brix,,23.6,degrees
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,L-malic acid,,3.64,g/L
+9/3/2015,Ebert Biale Aldo Random 2/3,0822823,509030080,Reported,Comments,,200 berries counted,
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,yeast assimilable nitrogen,,286,mg/L (as N)
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,total anthocyanins,,753,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,titratable acidity,,9.2,g/L
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,sugar per berry,,0.495,g/berry
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,quercetin glycosides,,15,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,tannin,,250,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,pH,,3.32,
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,polymeric anthocyanins/tannin index,,0.044,
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,polymeric anthocyanins,,11,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,alpha-amino compounds (as N),,160,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,ammonia,,153,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,berry weight,,2.23,g/berry
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,glucose + fructose,,236,g/L
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,catechin/tannin index,,0.028,
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,catechin,,7,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,brix,,22.2,degrees
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,L-malic acid,,3.98,g/L
+9/2/2015,EBERT.BIALE BR Sensor 4,0821873,509010732,Reported,Comments,,200 berries counted,
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,yeast assimilable nitrogen,,264,mg/L (as N)
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,total anthocyanins,,895,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,titratable acidity,,9.6,g/L
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,sugar per berry,,0.402,g/berry
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,quercetin glycosides,,19,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,pH,,3.23,
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,polymeric anthocyanins/tannin index,,0.038,
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,polymeric anthocyanins,,15,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,alpha-amino compounds (as N),,147,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,ammonia,,142,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,berry weight,,1.59,g/berry
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,glucose + fructose,,269,g/L
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,catechin/tannin index,,0.030,
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,catechin,,12,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,brix,,25.3,degrees
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,L-malic acid,,3.45,g/L
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,Comments,,200 berries counted,
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,yeast assimilable nitrogen,,274,mg/L (as N)
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,total anthocyanins,,842,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,titratable acidity,,10.1,g/L
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,sugar per berry,,0.524,g/berry
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,quercetin glycosides,,18,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,tannin,,273,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,pH,,3.19,
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,polymeric anthocyanins/tannin index,,0.040,
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,polymeric anthocyanins,,11,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,alpha-amino compounds (as N),,134,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,ammonia,,170,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,berry weight,,2.35,g/berry
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,glucose + fructose,,234,g/L
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,catechin/tannin index,,0.029,
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,catechin,,8,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,brix,,22.3,degrees
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,L-malic acid,,4.18,g/L
+9/2/2015,EBERT.BIALE BR Sensor 2,0821873,509010730,Reported,Comments,,200 berries counted,
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,yeast assimilable nitrogen,,213,mg/L (as N)
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,total anthocyanins,,813,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,titratable acidity,,8.2,g/L
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,sugar per berry,,0.495,g/berry
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,quercetin glycosides,,24,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,tannin,,327,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,pH,,3.37,
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,polymeric anthocyanins/tannin index,,0.046,
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,polymeric anthocyanins,,15,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,alpha-amino compounds (as N),,127,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,ammonia,,104,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,berry weight,,2.02,g/berry
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,glucose + fructose,,262,g/L
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,catechin/tannin index,,0.037,
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,catechin,,12,mg/L
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,brix,,24.5,degrees
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,L-malic acid,,3.38,g/L
+9/2/2015,EBERT.BIALE BR Sensor 1,0821873,509010729,Reported,Comments,,200 berries counted,
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,yeast assimilable nitrogen,,298,mg/L (as N)
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,total anthocyanins,,747,mg/L
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,titratable acidity,,10.2,g/L
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,sugar per berry,,0.449,g/berry
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,quercetin glycosides,,13,mg/L
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,tannin,,290,mg/L
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,pH,,3.22,
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,polymeric anthocyanins/tannin index,,0.034,
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,polymeric anthocyanins,,10,mg/L
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,alpha-amino compounds (as N),,167,mg/L
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,ammonia,,159,mg/L
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,berry weight,,2.04,g/berry
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,glucose + fructose,,234,g/L
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,catechin/tannin index,,0.038,
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,catechin,,11,mg/L
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,brix,,22.0,degrees
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,L-malic acid,,4.45,g/L
+9/2/2015,EBERT.BIALE BR Block 2C Random,0821873,509010728,Reported,Comments,,200 berries counted,
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,yeast assimilable nitrogen,,225,mg/L (as N)
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,total anthocyanins,,792,mg/L
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,titratable acidity,,9.8,g/L
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,sugar per berry,,0.654,g/berry
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,quercetin glycosides,,23,mg/L
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,tannin,,375,mg/L
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,pH,,3.20,
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,polymeric anthocyanins/tannin index,,0.035,
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,polymeric anthocyanins,,13,mg/L
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,alpha-amino compounds (as N),,126,mg/L
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,ammonia,,120,mg/L
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,berry weight,,2.96,g/berry
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,glucose + fructose,,233,g/L
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,catechin/tannin index,,0.021,
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,catechin,,8,mg/L
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,brix,,22.1,degrees
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,L-malic acid,,4.49,g/L
+9/2/2015,EBERT.BIALE BR Block 2B Random,0821873,509010727,Reported,Comments,,200 berries counted,
+9/2/2015,EBERT.BIALE BR Sensor 3,0821873,509010731,Reported,tannin,,394,mg/L
+8/31/2015,Ebert/Biale BR LMS Sensor,0820928,508310133,Reported,total anthocyanins,,694,mg/L
+8/31/2015,Ebert/Biale BR LMS Sensor,0820928,508310133,Reported,quercetin glycosides,,19,mg/L
+8/31/2015,Ebert/Biale BR LMS Sensor,0820928,508310133,Reported,tannin,,234,mg/L
+8/31/2015,Ebert/Biale BR LMS Sensor,0820928,508310133,Reported,polymeric anthocyanins/tannin index,,0.038,
+8/31/2015,Ebert/Biale BR LMS Sensor,0820928,508310133,Reported,polymeric anthocyanins,,9,mg/L
+8/31/2015,Ebert/Biale BR LMS Sensor,0820928,508310133,Reported,catechin/tannin index,,0.043,
+8/31/2015,Ebert/Biale BR LMS Sensor,0820928,508310133,Reported,catechin,,10,mg/L
+8/31/2015,Ebert/Biale BR LMS Random,0820928,508310132,Reported,total anthocyanins,,604,mg/L
+8/31/2015,Ebert/Biale BR LMS Random,0820928,508310132,Reported,quercetin glycosides,,14,mg/L
+8/31/2015,Ebert/Biale BR LMS Random,0820928,508310132,Reported,tannin,,217,mg/L
+8/31/2015,Ebert/Biale BR LMS Random,0820928,508310132,Reported,polymeric anthocyanins/tannin index,,0.032,
+8/31/2015,Ebert/Biale BR LMS Random,0820928,508310132,Reported,polymeric anthocyanins,,7,mg/L
+8/31/2015,Ebert/Biale BR LMS Random,0820928,508310132,Reported,catechin/tannin index,,0.069,
+8/31/2015,Ebert/Biale BR LMS Random,0820928,508310132,Reported,catechin,,15,mg/L
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820928,508310131,Reported,total anthocyanins,,866,mg/L
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820928,508310131,Reported,quercetin glycosides,,29,mg/L
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820928,508310131,Reported,tannin,,240,mg/L
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820928,508310131,Reported,polymeric anthocyanins/tannin index,,0.038,
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820928,508310131,Reported,polymeric anthocyanins,,9,mg/L
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820928,508310131,Reported,catechin/tannin index,,0.179,
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820928,508310131,Reported,catechin,,43,mg/L
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820928,508310130,Reported,total anthocyanins,,1013,mg/L
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820928,508310130,Reported,quercetin glycosides,,68,mg/L
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820928,508310130,Reported,tannin,,273,mg/L
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820928,508310130,Reported,polymeric anthocyanins/tannin index,,0.037,
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820928,508310130,Reported,polymeric anthocyanins,,10,mg/L
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820928,508310130,Reported,catechin/tannin index,,0.114,
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820928,508310130,Reported,catechin,,31,mg/L
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820928,508310129,Reported,total anthocyanins,,1096,mg/L
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820928,508310129,Reported,quercetin glycosides,,82,mg/L
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820928,508310129,Reported,tannin,,361,mg/L
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820928,508310129,Reported,polymeric anthocyanins/tannin index,,0.036,
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820928,508310129,Reported,polymeric anthocyanins,,13,mg/L
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820928,508310129,Reported,catechin/tannin index,,0.050,
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820928,508310129,Reported,catechin,,18,mg/L
+8/31/2015,Ebert/Biale BR LMS Sensor,0820927,508310128,Reported,yeast assimilable nitrogen,,135,mg/L (as N)
+8/31/2015,Ebert/Biale BR LMS Sensor,0820927,508310128,Reported,titratable acidity,,8.4,g/L
+8/31/2015,Ebert/Biale BR LMS Sensor,0820927,508310128,Reported,sugar per berry,,0.468,g/berry
+8/31/2015,Ebert/Biale BR LMS Sensor,0820927,508310128,Reported,pH,,3.21,
+8/31/2015,Ebert/Biale BR LMS Sensor,0820927,508310128,Reported,alpha-amino compounds (as N),,86,mg/L
+8/31/2015,Ebert/Biale BR LMS Sensor,0820927,508310128,Reported,ammonia,,60,mg/L
+8/31/2015,Ebert/Biale BR LMS Sensor,0820927,508310128,Reported,berry weight,,2.00,g/berry
+8/31/2015,Ebert/Biale BR LMS Sensor,0820927,508310128,Reported,glucose + fructose,,248,g/L
+8/31/2015,Ebert/Biale BR LMS Sensor,0820927,508310128,Reported,brix,,23.4,degrees
+8/31/2015,Ebert/Biale BR LMS Sensor,0820927,508310128,Reported,L-malic acid,,3.28,g/L
+8/31/2015,Ebert/Biale BR LMS Random,0820927,508310127,Reported,yeast assimilable nitrogen,,213,mg/L (as N)
+8/31/2015,Ebert/Biale BR LMS Random,0820927,508310127,Reported,titratable acidity,,10.2,g/L
+8/31/2015,Ebert/Biale BR LMS Random,0820927,508310127,Reported,sugar per berry,,0.479,g/berry
+8/31/2015,Ebert/Biale BR LMS Random,0820927,508310127,Reported,pH,,3.20,
+8/31/2015,Ebert/Biale BR LMS Random,0820927,508310127,Reported,alpha-amino compounds (as N),,102,mg/L
+8/31/2015,Ebert/Biale BR LMS Random,0820927,508310127,Reported,ammonia,,135,mg/L
+8/31/2015,Ebert/Biale BR LMS Random,0820927,508310127,Reported,berry weight,,2.24,g/berry
+8/31/2015,Ebert/Biale BR LMS Random,0820927,508310127,Reported,glucose + fructose,,224,g/L
+8/31/2015,Ebert/Biale BR LMS Random,0820927,508310127,Reported,brix,,21.4,degrees
+8/31/2015,Ebert/Biale BR LMS Random,0820927,508310127,Reported,L-malic acid,,4.90,g/L
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820927,508310126,Reported,yeast assimilable nitrogen,,168,mg/L (as N)
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820927,508310126,Reported,titratable acidity,,7.9,g/L
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820927,508310126,Reported,sugar per berry,,0.248,g/berry
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820927,508310126,Reported,pH,,3.36,
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820927,508310126,Reported,alpha-amino compounds (as N),,72,mg/L
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820927,508310126,Reported,ammonia,,116,mg/L
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820927,508310126,Reported,berry weight,,1.15,g/berry
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820927,508310126,Reported,glucose + fructose,,232,g/L
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820927,508310126,Reported,brix,,21.6,degrees
+8/31/2015,Ebert/Tres Sabores South Cab Sensor,0820927,508310126,Reported,L-malic acid,,3.66,g/L
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820927,508310125,Reported,yeast assimilable nitrogen,,131,mg/L (as N)
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820927,508310125,Reported,titratable acidity,,7.0,g/L
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820927,508310125,Reported,sugar per berry,,0.240,g/berry
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820927,508310125,Reported,pH,,3.35,
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820927,508310125,Reported,alpha-amino compounds (as N),,67,mg/L
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820927,508310125,Reported,ammonia,,78,mg/L
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820927,508310125,Reported,berry weight,,1.09,g/berry
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820927,508310125,Reported,glucose + fructose,,239,g/L
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820927,508310125,Reported,brix,,22.0,degrees
+8/31/2015,Ebert/Tres Sabores South Cab Random,0820927,508310125,Reported,L-malic acid,,2.92,g/L
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820927,508310124,Reported,yeast assimilable nitrogen,,107,mg/L (as N)
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820927,508310124,Reported,titratable acidity,,6.1,g/L
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820927,508310124,Reported,sugar per berry,,0.223,g/berry
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820927,508310124,Reported,pH,,3.44,
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820927,508310124,Reported,alpha-amino compounds (as N),,62,mg/L
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820927,508310124,Reported,ammonia,,55,mg/L
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820927,508310124,Reported,berry weight,,0.92,g/berry
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820927,508310124,Reported,glucose + fructose,,263,g/L
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820927,508310124,Reported,brix,,24.2,degrees
+8/31/2015,Ebert/Tres Sabores North Cab Sensor,0820927,508310124,Reported,L-malic acid,,2.18,g/L
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,yeast assimilable nitrogen,,288,mg/L (as N)
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,total anthocyanins,,529,mg/L
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,titratable acidity,,14.2,g/L
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,sugar per berry,,0.288,g/berry
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,quercetin glycosides,,10,mg/L
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,tannin,,221,mg/L
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,pH,,3.03,
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,polymeric anthocyanins/tannin index,,0.027,
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,polymeric anthocyanins,,6,mg/L
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,alpha-amino compounds (as N),,118,mg/L
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,ammonia,,206,mg/L
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,berry weight,,1.36,g/berry
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,glucose + fructose,,213,g/L
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,catechin/tannin index,,0.145,
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,catechin,,32,mg/L
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,brix,,21.2,degrees
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,L-malic acid,,7.49,g/L
+8/23/2015,Ebert's Young Primitivo,0817291,508220160,Reported,Comments,,Maturity Panel: 200 berries counted.,
+8/7/2015,Random Samples Sensor 6 (250 grams),0812135,508060979,Reported,total anthocyanins,,302,mg/L
+8/7/2015,Random Samples Sensor 6 (250 grams),0812135,508060979,Reported,quercetin glycosides,,31,mg/L
+8/7/2015,Random Samples Sensor 6 (250 grams),0812135,508060979,Reported,tannin,,224,mg/L
+8/7/2015,Random Samples Sensor 6 (250 grams),0812135,508060979,Reported,polymeric anthocyanins/tannin index,,0.018,
+8/7/2015,Random Samples Sensor 6 (250 grams),0812135,508060979,Reported,polymeric anthocyanins,,4,mg/L
+8/7/2015,Random Samples Sensor 6 (250 grams),0812135,508060979,Reported,catechin/tannin index,,0.263,
+8/7/2015,Random Samples Sensor 6 (250 grams),0812135,508060979,Reported,catechin,,59,mg/L
+8/7/2015,Random Samples Sensor 5 (300 grams),0812135,508060978,Reported,total anthocyanins,,363,mg/L
+8/7/2015,Random Samples Sensor 5 (300 grams),0812135,508060978,Reported,quercetin glycosides,,35,mg/L
+8/7/2015,Random Samples Sensor 5 (300 grams),0812135,508060978,Reported,tannin,,247,mg/L
+8/7/2015,Random Samples Sensor 5 (300 grams),0812135,508060978,Reported,polymeric anthocyanins/tannin index,,0.016,
+8/7/2015,Random Samples Sensor 5 (300 grams),0812135,508060978,Reported,polymeric anthocyanins,,4,mg/L
+8/7/2015,Random Samples Sensor 5 (300 grams),0812135,508060978,Reported,catechin/tannin index,,0.219,
+8/7/2015,Random Samples Sensor 5 (300 grams),0812135,508060978,Reported,catechin,,54,mg/L
+8/7/2015,Random Samples Sensors 2 & 4(300 grams),0812135,508060977,Reported,total anthocyanins,,343,mg/L
+8/7/2015,Random Samples Sensors 2 & 4(300 grams),0812135,508060977,Reported,quercetin glycosides,,29,mg/L
+8/7/2015,Random Samples Sensors 2 & 4(300 grams),0812135,508060977,Reported,tannin,,270,mg/L
+8/7/2015,Random Samples Sensors 2 & 4(300 grams),0812135,508060977,Reported,polymeric anthocyanins/tannin index,,0.015,
+8/7/2015,Random Samples Sensors 2 & 4(300 grams),0812135,508060977,Reported,polymeric anthocyanins,,4,mg/L
+8/7/2015,Random Samples Sensors 2 & 4(300 grams),0812135,508060977,Reported,catechin/tannin index,,0.215,
+8/7/2015,Random Samples Sensors 2 & 4(300 grams),0812135,508060977,Reported,catechin,,58,mg/L
+8/7/2015,Random Samples Sensors 1 & 3 (250 grams),0812135,508060976,Reported,total anthocyanins,,257,mg/L
+8/7/2015,Random Samples Sensors 1 & 3 (250 grams),0812135,508060976,Reported,quercetin glycosides,,36,mg/L
+8/7/2015,Random Samples Sensors 1 & 3 (250 grams),0812135,508060976,Reported,tannin,,283,mg/L
+8/7/2015,Random Samples Sensors 1 & 3 (250 grams),0812135,508060976,Reported,polymeric anthocyanins/tannin index,,0.014,
+8/7/2015,Random Samples Sensors 1 & 3 (250 grams),0812135,508060976,Reported,polymeric anthocyanins,,4,mg/L
+8/7/2015,Random Samples Sensors 1 & 3 (250 grams),0812135,508060976,Reported,catechin/tannin index,,0.269,
+8/7/2015,Random Samples Sensors 1 & 3 (250 grams),0812135,508060976,Reported,catechin,,76,mg/L
+8/6/2015,Random Samples Sensor 6 (200 berries),0812134,508060975,Reported,titratable acidity,,14.9,g/L
+8/6/2015,Random Samples Sensor 6 (200 berries),0812134,508060975,Reported,sugar per berry,,0.349,g/berry
+8/6/2015,Random Samples Sensor 6 (200 berries),0812134,508060975,Reported,pH,,2.96,
+8/6/2015,Random Samples Sensor 6 (200 berries),0812134,508060975,Reported,berry weight,,2.25,g/berry
+8/6/2015,Random Samples Sensor 6 (200 berries),0812134,508060975,Reported,glucose + fructose,,144,g/L
+8/6/2015,Random Samples Sensor 6 (200 berries),0812134,508060975,Reported,brix,,15.5,degrees
+8/6/2015,Random Samples Sensor 6 (200 berries),0812134,508060975,Reported,L-malic acid,,8.52,g/L
+8/6/2015,Random Samples Sensor 5 (200 berries),0812134,508060974,Reported,titratable acidity,,16.0,g/L
+8/6/2015,Random Samples Sensor 5 (200 berries),0812134,508060974,Reported,sugar per berry,,0.359,g/berry
+8/6/2015,Random Samples Sensor 5 (200 berries),0812134,508060974,Reported,pH,,2.93,
+8/6/2015,Random Samples Sensor 5 (200 berries),0812134,508060974,Reported,berry weight,,2.23,g/berry
+8/6/2015,Random Samples Sensor 5 (200 berries),0812134,508060974,Reported,glucose + fructose,,149,g/L
+8/6/2015,Random Samples Sensor 5 (200 berries),0812134,508060974,Reported,brix,,16.1,degrees
+8/6/2015,Random Samples Sensor 5 (200 berries),0812134,508060974,Reported,L-malic acid,,9.03,g/L
+8/6/2015,Random Samples Sensors 2 & 4 (200 berries),0812134,508060973,Reported,titratable acidity,,14.6,g/L
+8/6/2015,Random Samples Sensors 2 & 4 (200 berries),0812134,508060973,Reported,sugar per berry,,0.393,g/berry
+8/6/2015,Random Samples Sensors 2 & 4 (200 berries),0812134,508060973,Reported,pH,,2.95,
+8/6/2015,Random Samples Sensors 2 & 4 (200 berries),0812134,508060973,Reported,berry weight,,2.47,g/berry
+8/6/2015,Random Samples Sensors 2 & 4 (200 berries),0812134,508060973,Reported,glucose + fructose,,151,g/L
+8/6/2015,Random Samples Sensors 2 & 4 (200 berries),0812134,508060973,Reported,brix,,15.9,degrees
+8/6/2015,Random Samples Sensors 2 & 4 (200 berries),0812134,508060973,Reported,L-malic acid,,8.15,g/L
+8/6/2015,Random Samples Sensors 1 & 3 (200 berries),0812134,508060972,Reported,titratable acidity,,14.3,g/L
+8/6/2015,Random Samples Sensors 1 & 3 (200 berries),0812134,508060972,Reported,sugar per berry,,0.420,g/berry
+8/6/2015,Random Samples Sensors 1 & 3 (200 berries),0812134,508060972,Reported,pH,,3.05,
+8/6/2015,Random Samples Sensors 1 & 3 (200 berries),0812134,508060972,Reported,berry weight,,2.61,g/berry
+8/6/2015,Random Samples Sensors 1 & 3 (200 berries),0812134,508060972,Reported,glucose + fructose,,152,g/L
+8/6/2015,Random Samples Sensors 1 & 3 (200 berries),0812134,508060972,Reported,brix,,16.1,degrees
+8/6/2015,Random Samples Sensors 1 & 3 (200 berries),0812134,508060972,Reported,L-malic acid,,8.09,g/L
+8/7/2015,Cluster Sample Sensor 6,0812107,508060916,Reported,titratable acidity,,15.1,g/L
+8/7/2015,Cluster Sample Sensor 6,0812107,508060916,Reported,total anthocyanins,,303,mg/L
+8/7/2015,Cluster Sample Sensor 6,0812107,508060916,Reported,sugar per berry,,0.299,g/berry
+8/7/2015,Cluster Sample Sensor 6,0812107,508060916,Reported,quercetin glycosides,,17,mg/L
+8/7/2015,Cluster Sample Sensor 6,0812107,508060916,Reported,tannin,,221,mg/L
+8/7/2015,Cluster Sample Sensor 6,0812107,508060916,Reported,pH,,2.88,
+8/7/2015,Cluster Sample Sensor 6,0812107,508060916,Reported,polymeric anthocyanins/tannin index,,0.018,
+8/7/2015,Cluster Sample Sensor 6,0812107,508060916,Reported,polymeric anthocyanins,,4,mg/L
+8/7/2015,Cluster Sample Sensor 6,0812107,508060916,Reported,berry weight,,2.01,g/berry
+8/7/2015,Cluster Sample Sensor 6,0812107,508060916,Reported,glucose + fructose,,140,g/L
+8/7/2015,Cluster Sample Sensor 6,0812107,508060916,Reported,catechin/tannin index,,0.357,
+8/7/2015,Cluster Sample Sensor 6,0812107,508060916,Reported,catechin,,79,mg/L
+8/7/2015,Cluster Sample Sensor 6,0812107,508060916,Reported,brix,,14.9,degrees
+8/7/2015,Cluster Sample Sensor 6,0812107,508060916,Reported,L-malic acid,,8.37,g/L
+8/7/2015,Cluster Sample Sensor 6,0812107,508060916,Reported,Comments,,Berries counted for maturity panel =200 berries,
+8/7/2015,Cluster Sample Sensor 5,0812107,508060915,Reported,titratable acidity,,18.7,g/L
+8/7/2015,Cluster Sample Sensor 5,0812107,508060915,Reported,total anthocyanins,,492,mg/L
+8/7/2015,Cluster Sample Sensor 5,0812107,508060915,Reported,sugar per berry,,0.210,g/berry
+8/7/2015,Cluster Sample Sensor 5,0812107,508060915,Reported,quercetin glycosides,,32,mg/L
+8/7/2015,Cluster Sample Sensor 5,0812107,508060915,Reported,tannin,,210,mg/L
+8/7/2015,Cluster Sample Sensor 5,0812107,508060915,Reported,pH,,2.82,
+8/7/2015,Cluster Sample Sensor 5,0812107,508060915,Reported,polymeric anthocyanins/tannin index,,0.024,
+8/7/2015,Cluster Sample Sensor 5,0812107,508060915,Reported,polymeric anthocyanins,,5,mg/L
+8/7/2015,Cluster Sample Sensor 5,0812107,508060915,Reported,berry weight,,1.31,g/berry
+8/7/2015,Cluster Sample Sensor 5,0812107,508060915,Reported,glucose + fructose,,149,g/L
+8/7/2015,Cluster Sample Sensor 5,0812107,508060915,Reported,catechin/tannin index,,0.114,
+8/7/2015,Cluster Sample Sensor 5,0812107,508060915,Reported,catechin,,24,mg/L
+8/7/2015,Cluster Sample Sensor 5,0812107,508060915,Reported,brix,,16.0,degrees
+8/7/2015,Cluster Sample Sensor 5,0812107,508060915,Reported,L-malic acid,,10.28,g/L
+8/7/2015,Cluster Sample Sensor 5,0812107,508060915,Reported,Comments,,Berries counted for maturity panel =200 berries,
+8/7/2015,Cluster Sample Sensor 4,0812107,508060914,Reported,titratable acidity,,16.7,g/L
+8/7/2015,Cluster Sample Sensor 4,0812107,508060914,Reported,total anthocyanins,,425,mg/L
+8/7/2015,Cluster Sample Sensor 4,0812107,508060914,Reported,sugar per berry,,0.258,g/berry
+8/7/2015,Cluster Sample Sensor 4,0812107,508060914,Reported,quercetin glycosides,,16,mg/L
+8/7/2015,Cluster Sample Sensor 4,0812107,508060914,Reported,tannin,,213,mg/L
+8/7/2015,Cluster Sample Sensor 4,0812107,508060914,Reported,pH,,2.93,
+8/7/2015,Cluster Sample Sensor 4,0812107,508060914,Reported,polymeric anthocyanins/tannin index,,0.023,
+8/7/2015,Cluster Sample Sensor 4,0812107,508060914,Reported,polymeric anthocyanins,,5,mg/L
+8/7/2015,Cluster Sample Sensor 4,0812107,508060914,Reported,berry weight,,1.73,g/berry
+8/7/2015,Cluster Sample Sensor 4,0812107,508060914,Reported,glucose + fructose,,135,g/L
+8/7/2015,Cluster Sample Sensor 4,0812107,508060914,Reported,catechin/tannin index,,0.211,
+8/7/2015,Cluster Sample Sensor 4,0812107,508060914,Reported,catechin,,45,mg/L
+8/7/2015,Cluster Sample Sensor 4,0812107,508060914,Reported,brix,,14.9,degrees
+8/7/2015,Cluster Sample Sensor 4,0812107,508060914,Reported,L-malic acid,,9.50,g/L
+8/7/2015,Cluster Sample Sensor 4,0812107,508060914,Reported,Comments,,Berries counted for maturity panel =200 berries,
+8/7/2015,Cluster Sample Sensor 3,0812107,508060913,Reported,titratable acidity,,17.1,g/L
+8/7/2015,Cluster Sample Sensor 3,0812107,508060913,Reported,total anthocyanins,,412,mg/L
+8/7/2015,Cluster Sample Sensor 3,0812107,508060913,Reported,sugar per berry,,0.411,g/berry
+8/7/2015,Cluster Sample Sensor 3,0812107,508060913,Reported,quercetin glycosides,,18,mg/L
+8/7/2015,Cluster Sample Sensor 3,0812107,508060913,Reported,tannin,,304,mg/L
+8/7/2015,Cluster Sample Sensor 3,0812107,508060913,Reported,pH,,2.87,
+8/7/2015,Cluster Sample Sensor 3,0812107,508060913,Reported,polymeric anthocyanins/tannin index,,0.016,
+8/7/2015,Cluster Sample Sensor 3,0812107,508060913,Reported,polymeric anthocyanins,,5,mg/L
+8/7/2015,Cluster Sample Sensor 3,0812107,508060913,Reported,berry weight,,2.62,g/berry
+8/7/2015,Cluster Sample Sensor 3,0812107,508060913,Reported,glucose + fructose,,147,g/L
+8/7/2015,Cluster Sample Sensor 3,0812107,508060913,Reported,catechin/tannin index,,0.161,
+8/7/2015,Cluster Sample Sensor 3,0812107,508060913,Reported,catechin,,49,mg/L
+8/7/2015,Cluster Sample Sensor 3,0812107,508060913,Reported,brix,,15.7,degrees
+8/7/2015,Cluster Sample Sensor 3,0812107,508060913,Reported,L-malic acid,,10.05,g/L
+8/7/2015,Cluster Sample Sensor 3,0812107,508060913,Reported,Comments,,Berries counted for maturity panel =200 berries,
+8/7/2015,Cluster Sample Sensor 2,0812107,508060912,Reported,titratable acidity,,17.1,g/L
+8/7/2015,Cluster Sample Sensor 2,0812107,508060912,Reported,total anthocyanins,,165,mg/L
+8/7/2015,Cluster Sample Sensor 2,0812107,508060912,Reported,sugar per berry,,0.232,g/berry
+8/7/2015,Cluster Sample Sensor 2,0812107,508060912,Reported,quercetin glycosides,,15,mg/L
+8/7/2015,Cluster Sample Sensor 2,0812107,508060912,Reported,tannin,,238,mg/L
+8/7/2015,Cluster Sample Sensor 2,0812107,508060912,Reported,pH,,2.88,
+8/7/2015,Cluster Sample Sensor 2,0812107,508060912,Reported,polymeric anthocyanins/tannin index,,0.017,
+8/7/2015,Cluster Sample Sensor 2,0812107,508060912,Reported,polymeric anthocyanins,,4,mg/L
+8/7/2015,Cluster Sample Sensor 2,0812107,508060912,Reported,berry weight,,1.66,g/berry
+8/7/2015,Cluster Sample Sensor 2,0812107,508060912,Reported,glucose + fructose,,127,g/L
+8/7/2015,Cluster Sample Sensor 2,0812107,508060912,Reported,catechin/tannin index,,0.227,
+8/7/2015,Cluster Sample Sensor 2,0812107,508060912,Reported,catechin,,54,mg/L
+8/7/2015,Cluster Sample Sensor 2,0812107,508060912,Reported,brix,,14.0,degrees
+8/7/2015,Cluster Sample Sensor 2,0812107,508060912,Reported,L-malic acid,,10.38,g/L
+8/7/2015,Cluster Sample Sensor 2,0812107,508060912,Reported,Comments,,Berries counted for maturity panel =200 berries,
+8/7/2015,Cluster Sample Sensor 1,0812107,508060911,Reported,titratable acidity,,14.9,g/L
+8/7/2015,Cluster Sample Sensor 1,0812107,508060911,Reported,total anthocyanins,,327,mg/L
+8/7/2015,Cluster Sample Sensor 1,0812107,508060911,Reported,sugar per berry,,0.226,g/berry
+8/7/2015,Cluster Sample Sensor 1,0812107,508060911,Reported,quercetin glycosides,,29,mg/L
+8/7/2015,Cluster Sample Sensor 1,0812107,508060911,Reported,tannin,,312,mg/L
+8/7/2015,Cluster Sample Sensor 1,0812107,508060911,Reported,pH,,2.97,
+8/7/2015,Cluster Sample Sensor 1,0812107,508060911,Reported,polymeric anthocyanins/tannin index,,0.016,
+8/7/2015,Cluster Sample Sensor 1,0812107,508060911,Reported,polymeric anthocyanins,,5,mg/L
+8/7/2015,Cluster Sample Sensor 1,0812107,508060911,Reported,berry weight,,1.51,g/berry
+8/7/2015,Cluster Sample Sensor 1,0812107,508060911,Reported,glucose + fructose,,140,g/L
+8/7/2015,Cluster Sample Sensor 1,0812107,508060911,Reported,catechin/tannin index,,0.160,
+8/7/2015,Cluster Sample Sensor 1,0812107,508060911,Reported,catechin,,50,mg/L
+8/7/2015,Cluster Sample Sensor 1,0812107,508060911,Reported,brix,,15.0,degrees
+8/7/2015,Cluster Sample Sensor 1,0812107,508060911,Reported,L-malic acid,,8.19,g/L
+8/7/2015,Cluster Sample Sensor 1,0812107,508060911,Reported,Comments,,Berries counted for maturity panel =200 berries,
+9/17/2014,Werle Random,0727732,409161024,Reported,yeast assimilable nitrogen,,137,mg/L (as N)
+9/17/2014,Werle Random,0727732,409161024,Reported,total anthocyanins,,1111,mg/L
+9/17/2014,Werle Random,0727732,409161024,Reported,titratable acidity,,5.8,g/L
+9/17/2014,Werle Random,0727732,409161024,Reported,sugar per berry,,0.459,g/berry
+9/17/2014,Werle Random,0727732,409161024,Reported,quercetin glycosides,,33,mg/L
+9/17/2014,Werle Random,0727732,409161024,Reported,tannin,,566,mg/L
+9/17/2014,Werle Random,0727732,409161024,Reported,pH,,3.43,
+9/17/2014,Werle Random,0727732,409161024,Reported,polymeric anthocyanins/tannin index,,0.049,
+9/17/2014,Werle Random,0727732,409161024,Reported,polymeric anthocyanins,,28,mg/L
+9/17/2014,Werle Random,0727732,409161024,Reported,alpha-amino compounds (as N),,83,mg/L
+9/17/2014,Werle Random,0727732,409161024,Reported,ammonia,,65,mg/L
+9/17/2014,Werle Random,0727732,409161024,Reported,berry weight,,1.76,g/berry
+9/17/2014,Werle Random,0727732,409161024,Reported,glucose + fructose,,276,g/L
+9/17/2014,Werle Random,0727732,409161024,Reported,catechin/tannin index,,0.011,
+9/17/2014,Werle Random,0727732,409161024,Reported,catechin,,6,mg/L
+9/17/2014,Werle Random,0727732,409161024,Reported,brix,,26.1,degrees
+9/17/2014,Werle Random,0727732,409161024,Reported,L-malic acid,,1.70,g/L
+9/17/2014,Werle Random,0727732,409161024,Reported,Comments,,Berry count: 200 ,
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,yeast assimilable nitrogen,,245,mg/L (as N)
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,total anthocyanins,,992,mg/L
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,titratable acidity,,7.4,g/L
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,sugar per berry,,0.627,g/berry
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,quercetin glycosides,,24,mg/L
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,tannin,,571,mg/L
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,pH,,3.44,
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,polymeric anthocyanins/tannin index,,0.058,
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,polymeric anthocyanins,,33,mg/L
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,alpha-amino compounds (as N),,136,mg/L
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,ammonia,,132,mg/L
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,berry weight,,2.33,g/berry
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,glucose + fructose,,286,g/L
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,catechin/tannin index,,0.011,
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,catechin,,6,mg/L
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,brix,,26.9,degrees
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,L-malic acid,,2.72,g/L
+9/17/2014,Werle PIT#4 BR F7-5,0727732,409161023,Reported,Comments,,Berry count: 200 ,
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,yeast assimilable nitrogen,,223,mg/L (as N)
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,total anthocyanins,,995,mg/L
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,titratable acidity,,6.9,g/L
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,sugar per berry,,0.649,g/berry
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,quercetin glycosides,,28,mg/L
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,tannin,,411,mg/L
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,pH,,3.51,
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,polymeric anthocyanins/tannin index,,0.063,
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,polymeric anthocyanins,,26,mg/L
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,alpha-amino compounds (as N),,134,mg/L
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,ammonia,,108,mg/L
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,berry weight,,2.43,g/berry
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,glucose + fructose,,284,g/L
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,catechin/tannin index,,0.010,
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,catechin,,4,mg/L
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,brix,,26.7,degrees
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,L-malic acid,,2.58,g/L
+9/17/2014,Werle PIT#2,0727732,409161022,Reported,Comments,,Berry count: 200 ,
+9/17/2014,Morisole Random,0727732,409161021,Reported,yeast assimilable nitrogen,,152,mg/L (as N)
+9/17/2014,Morisole Random,0727732,409161021,Reported,total anthocyanins,,854,mg/L
+9/17/2014,Morisole Random,0727732,409161021,Reported,titratable acidity,,6.7,g/L
+9/17/2014,Morisole Random,0727732,409161021,Reported,sugar per berry,,0.493,g/berry
+9/17/2014,Morisole Random,0727732,409161021,Reported,quercetin glycosides,,33,mg/L
+9/17/2014,Morisole Random,0727732,409161021,Reported,tannin,,575,mg/L
+9/17/2014,Morisole Random,0727732,409161021,Reported,pH,,3.41,
+9/17/2014,Morisole Random,0727732,409161021,Reported,polymeric anthocyanins/tannin index,,0.047,
+9/17/2014,Morisole Random,0727732,409161021,Reported,polymeric anthocyanins,,27,mg/L
+9/17/2014,Morisole Random,0727732,409161021,Reported,alpha-amino compounds (as N),,94,mg/L
+9/17/2014,Morisole Random,0727732,409161021,Reported,ammonia,,71,mg/L
+9/17/2014,Morisole Random,0727732,409161021,Reported,berry weight,,1.86,g/berry
+9/17/2014,Morisole Random,0727732,409161021,Reported,glucose + fructose,,279,g/L
+9/17/2014,Morisole Random,0727732,409161021,Reported,catechin/tannin index,,<0.01,
+9/17/2014,Morisole Random,0727732,409161021,Reported,catechin,,4,mg/L
+9/17/2014,Morisole Random,0727732,409161021,Reported,brix,,26.5,degrees
+9/17/2014,Morisole Random,0727732,409161021,Reported,L-malic acid,,2.30,g/L
+9/17/2014,Morisole Random,0727732,409161021,Reported,Comments,,Berry count: 200 ,
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,yeast assimilable nitrogen,,171,mg/L (as N)
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,total anthocyanins,,984,mg/L
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,titratable acidity,,7.0,g/L
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,sugar per berry,,0.581,g/berry
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,quercetin glycosides,,33,mg/L
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,tannin,,583,mg/L
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,pH,,3.41,
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,polymeric anthocyanins/tannin index,,0.046,
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,polymeric anthocyanins,,27,mg/L
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,alpha-amino compounds (as N),,100,mg/L
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,ammonia,,86,mg/L
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,berry weight,,2.06,g/berry
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,glucose + fructose,,300,g/L
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,catechin/tannin index,,0.010,
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,catechin,,6,mg/L
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,brix,,28.2,degrees
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,L-malic acid,,2.39,g/L
+9/17/2014,Morisole PIT#3,0727732,409161020,Reported,Comments,,Berry count: 200 ,
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,yeast assimilable nitrogen,,154,mg/L (as N)
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,total anthocyanins,,1178,mg/L
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,titratable acidity,,6.1,g/L
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,sugar per berry,,0.563,g/berry
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,quercetin glycosides,,41,mg/L
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,tannin,,555,mg/L
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,pH,,3.50,
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,polymeric anthocyanins/tannin index,,0.052,
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,polymeric anthocyanins,,29,mg/L
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,alpha-amino compounds (as N),,90,mg/L
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,ammonia,,78,mg/L
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,berry weight,,2.10,g/berry
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,glucose + fructose,,284,g/L
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,catechin/tannin index,,<0.01,
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,catechin,,3,mg/L
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,brix,,26.8,degrees
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,L-malic acid,,1.69,g/L
+9/17/2014,Morisole PIT#1,0727732,409161019,Reported,Comments,,Berry count: 200 ,
+9/17/2014,LMS Sensor,0727732,409161018,Reported,yeast assimilable nitrogen,,183,mg/L (as N)
+9/17/2014,LMS Sensor,0727732,409161018,Reported,total anthocyanins,,831,mg/L
+9/17/2014,LMS Sensor,0727732,409161018,Reported,titratable acidity,,8.0,g/L
+9/17/2014,LMS Sensor,0727732,409161018,Reported,sugar per berry,,0.597,g/berry
+9/17/2014,LMS Sensor,0727732,409161018,Reported,quercetin glycosides,,22,mg/L
+9/17/2014,LMS Sensor,0727732,409161018,Reported,tannin,,384,mg/L
+9/17/2014,LMS Sensor,0727732,409161018,Reported,pH,,3.33,
+9/17/2014,LMS Sensor,0727732,409161018,Reported,polymeric anthocyanins/tannin index,,0.062,
+9/17/2014,LMS Sensor,0727732,409161018,Reported,polymeric anthocyanins,,24,mg/L
+9/17/2014,LMS Sensor,0727732,409161018,Reported,alpha-amino compounds (as N),,108,mg/L
+9/17/2014,LMS Sensor,0727732,409161018,Reported,ammonia,,91,mg/L
+9/17/2014,LMS Sensor,0727732,409161018,Reported,berry weight,,2.37,g/berry
+9/17/2014,LMS Sensor,0727732,409161018,Reported,glucose + fructose,,263,g/L
+9/17/2014,LMS Sensor,0727732,409161018,Reported,catechin/tannin index,,0.036,
+9/17/2014,LMS Sensor,0727732,409161018,Reported,catechin,,14,mg/L
+9/17/2014,LMS Sensor,0727732,409161018,Reported,brix,,25.2,degrees
+9/17/2014,LMS Sensor,0727732,409161018,Reported,L-malic acid,,2.95,g/L
+9/17/2014,LMS Sensor,0727732,409161018,Reported,Comments,,Berry count: 200 ,
+9/17/2014,LMS Random,0727732,409161017,Reported,yeast assimilable nitrogen,,177,mg/L (as N)
+9/17/2014,LMS Random,0727732,409161017,Reported,total anthocyanins,,852,mg/L
+9/17/2014,LMS Random,0727732,409161017,Reported,titratable acidity,,7.0,g/L
+9/17/2014,LMS Random,0727732,409161017,Reported,sugar per berry,,0.537,g/berry
+9/17/2014,LMS Random,0727732,409161017,Reported,quercetin glycosides,,57,mg/L
+9/17/2014,LMS Random,0727732,409161017,Reported,tannin,,494,mg/L
+9/17/2014,LMS Random,0727732,409161017,Reported,pH,,3.40,
+9/17/2014,LMS Random,0727732,409161017,Reported,polymeric anthocyanins/tannin index,,0.053,
+9/17/2014,LMS Random,0727732,409161017,Reported,polymeric anthocyanins,,26,mg/L
+9/17/2014,LMS Random,0727732,409161017,Reported,alpha-amino compounds (as N),,110,mg/L
+9/17/2014,LMS Random,0727732,409161017,Reported,ammonia,,81,mg/L
+9/17/2014,LMS Random,0727732,409161017,Reported,berry weight,,2.09,g/berry
+9/17/2014,LMS Random,0727732,409161017,Reported,glucose + fructose,,269,g/L
+9/17/2014,LMS Random,0727732,409161017,Reported,catechin/tannin index,,0.024,
+9/17/2014,LMS Random,0727732,409161017,Reported,catechin,,12,mg/L
+9/17/2014,LMS Random,0727732,409161017,Reported,brix,,25.7,degrees
+9/17/2014,LMS Random,0727732,409161017,Reported,L-malic acid,,2.47,g/L
+9/17/2014,LMS Random,0727732,409161017,Reported,Comments,,Berry count: 200 ,
+9/5/2014,2014 Primitivo PIT 5,0723241,409050481,Reported,yeast assimilable nitrogen,,161,mg/L (as N)
+9/5/2014,2014 Primitivo PIT 5,0723241,409050481,Reported,titratable acidity,,8.7,g/L
+9/5/2014,2014 Primitivo PIT 5,0723241,409050481,Reported,pH,,3.14,
+9/5/2014,2014 Primitivo PIT 5,0723241,409050481,Reported,alpha-amino compounds (as N),,83,mg/L
+9/5/2014,2014 Primitivo PIT 5,0723241,409050481,Reported,ammonia,,95,mg/L
+9/5/2014,2014 Primitivo PIT 5,0723241,409050481,Reported,potassium,,1270,mg/L
+9/5/2014,2014 Primitivo PIT 5,0723241,409050481,Reported,glucose + fructose,,278,g/L
+9/5/2014,2014 Primitivo PIT 5,0723241,409050481,Reported,brix,,25.9,degrees
+9/5/2014,2014 Primitivo PIT 5,0723241,409050481,Reported,tartaric acid,,6.5,g/L
+9/5/2014,2014 Primitivo PIT 5,0723241,409050481,Reported,L-malic acid,,3.85,g/L
