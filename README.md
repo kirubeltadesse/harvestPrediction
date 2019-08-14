@@ -1,4 +1,4 @@
-<!-- login twitter https://en.wikipedia.org/wiki/Annual_growth_cycle_of_grapevines 
+ login twitter https://en.wikipedia.org/wiki/Annual_growth_cycle_of_grapevines 
 # Takes to do
 - look for dataset that have growing date information upto harvest date
 - create a SVM or any machine learning model
@@ -33,6 +33,12 @@ Outline Draft:
 # I can use the functional API to create the DD and use the as a column and feed it to the neural network.
 
 # multinomial Logistic Classification
+___________________________________________
+
+# trying to formate the output layer to an actual date (52 weeks)
+
+
+
 
 
 # Book
